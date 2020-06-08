@@ -1,0 +1,40 @@
+package wybory;
+
+public class StrategiaSkromna implements Strategia {
+
+    public boolean wykonajDzialanie(DzialaniaWKampanii[] dzialania, int budzet, Okreg[] okregi) {
+        Okreg okreg = znajdzNajmniejszyOkreg(okregi);
+        if (okreg != null) {
+            DzialaniaWKampanii dzialanie = najtanszeDzialanie(dzialania, okreg);
+
+            if (dzialanie != null && dzialanie.koszt(okreg.getLiczbaWyborcow()) <= budzet) {
+                dzialanie.wykonaj(okreg);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private DzialaniaWKampanii najtanszeDzialanie(DzialaniaWKampanii[] dzialaniaWKampanii, Okreg okreg) {
+        DzialaniaWKampanii dzialanie = null;
+        int min = Integer.MAX_VALUE;
+        for (DzialaniaWKampanii d : dzialaniaWKampanii) {
+            if (d.koszt(okreg.getLiczbaWyborcow()) < min) {
+                dzialanie = d;
+            }
+        }
+        return dzialanie;
+    }
+
+    private Okreg znajdzNajmniejszyOkreg(Okreg[] okregi) {
+        Okreg wynik = null;
+        int najmniej = Integer.MAX_VALUE;
+        for (Okreg okreg : okregi) {
+            if (okreg.getLiczbaWyborcow() < najmniej) {
+                wynik = okreg;
+                najmniej = okreg.getLiczbaWyborcow();
+            }
+        }
+        return wynik;
+    }
+}
