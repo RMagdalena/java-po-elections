@@ -17,7 +17,7 @@ public class Partia {
     public void kampania(Okreg[] okregi, int liczbaCechKandydatow, DzialaniaWKampanii[] dzialaniaWKampanii) {
         boolean czyWykonanoDzialanie = true;
         while (czyWykonanoDzialanie) {
-            czyWykonanoDzialanie = strategiaPartii.wykonajDzialanie(dzialaniaWKampanii, budzet, okregi);
+            czyWykonanoDzialanie = strategiaPartii.wykonajDzialanie(dzialaniaWKampanii, budzet, okregi, this);
         }
     }
 

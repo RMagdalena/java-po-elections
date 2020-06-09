@@ -3,17 +3,19 @@ package wybory;
 import java.util.LinkedList;
 
 public class Okreg {
-    private final int numer;
+    protected final int numer;
 
-    private final int liczbaWyborcow;
-    private final LinkedList<Wyborca> listaWyborcow;
+    protected final int liczbaWyborcow;
+    protected final LinkedList<Wyborca> listaWyborcow;
 
-    private final int liczbaMandatow;
-    private final LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu;
+    protected final int liczbaMandatow;
+    protected final LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu;
 
-    private int[] przydzieloneMandaty;
+    protected int[] przydzieloneMandaty;
 
-    private Okreg scalonyZOkregiem;
+//    protected Okreg scalonyZOkregiem;
+
+    protected OkregScalony okregScalony;
 
     public Okreg(int numer, int liczbaWyborcow, LinkedList<Wyborca> listaWyborcow, int liczbaMandatow, LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu) {
         this.numer = numer;
@@ -24,7 +26,7 @@ public class Okreg {
 
         this.przydzieloneMandaty = null;
 
-        this.scalonyZOkregiem = null;
+        this.okregScalony = null;
     }
 
 
@@ -40,20 +42,37 @@ public class Okreg {
         return wszyscyKandydaciOkregu;
     }
 
-    public Okreg getScalonyZOkregiem() {
-        return scalonyZOkregiem;
+    public OkregScalony getOkregScalony() {
+        return okregScalony;
     }
 
+    public void scalZOkregiem(Okreg okreg2) {
 
-    public void scalZOkregiem(Okreg drugiOkreg) {
-        this.scalonyZOkregiem = drugiOkreg;
+        int nowyNumer = this.numer;
+        int nowaLiczbaWyborcow = this.liczbaWyborcow + okreg2.liczbaWyborcow;
+
+        LinkedList<Wyborca> nowaListaWyborcow = new LinkedList<>();
+        nowaListaWyborcow.addAll(this.listaWyborcow);
+        nowaListaWyborcow.addAll(okreg2.listaWyborcow);
+
+        int nowaLiczbaMandatow = this.liczbaMandatow + okreg2.liczbaMandatow;
+
+        LinkedList<KandydaciPartiiDanegoOkregu> nowiWszyscyKandydaciOkregu = new LinkedList<>();
+        nowiWszyscyKandydaciOkregu.addAll(this.wszyscyKandydaciOkregu);
+        nowiWszyscyKandydaciOkregu.addAll(okreg2.wszyscyKandydaciOkregu);
+
+        OkregScalony okregScalony = new OkregScalony(nowyNumer, nowaLiczbaWyborcow, nowaListaWyborcow, nowaLiczbaMandatow, nowiWszyscyKandydaciOkregu, this, okreg2);
+
+        this.okregScalony = okregScalony;
     }
 
 
     // WYBORY
 
-
     public void glosowanie() {
+        for (Wyborca wyborca : listaWyborcow) {
+            wyborca.oddajGlos(wszyscyKandydaciOkregu);
+        }
     }
 
 }

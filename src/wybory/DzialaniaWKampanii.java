@@ -32,6 +32,5 @@ public class DzialaniaWKampanii {
         for (Wyborca wyborca : okreg.getListaWyborcow()) {
             wyborca.zmienWagi(opis);
         }
-
     }
 }

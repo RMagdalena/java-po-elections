@@ -31,10 +31,6 @@ public class WyborcaZelaznyPartyjny extends Wyborca {
         return wybraniKandydaci;
     }
 
-    @Override
-    public void zmienWagi(int[] opis) {
-        // strategia nie ma wplywu na tego wyborce
-    }
 
     protected int numerKandydata(LinkedList<KandydaciPartiiDanegoOkregu> kandydaciPartii) {
         return losujNumerKandydata(kandydaciPartii.get(0).getKandydaciPartii().length);

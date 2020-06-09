@@ -15,21 +15,12 @@ public class WyborcaZelaznyPartyjnyKandydata extends WyborcaZelaznyPartyjny {
 
     @Override
     public void oddajGlos(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
-        super.oddajGlos(WybieraZPartii.wybierzKandydatowDanejPartii(wszyscyKandydaci, wybranaPartia));
+        LinkedList<KandydaciPartiiDanegoOkregu> kandydaciZOkregu = this.okregWyborczy.getWszyscyKandydaciOkregu();
+        super.oddajGlos(WybieraZPartii.wybierzKandydatowDanejPartii(kandydaciZOkregu, wybranaPartia));
     }
 
     @Override
     protected int numerKandydata(LinkedList<KandydaciPartiiDanegoOkregu> kandydaciPartii) {
         return numerKandydata;
-    }
-
-    @Override
-    protected void okregiPolaczone(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci, Okreg scalonyOkreg) {
-        LinkedList<Kandydat> listaKandydatowWybranych = stworzListeWybranych(wszyscyKandydaci);
-
-        if (listaKandydatowWybranych.size() > 0) {
-            int numer = losujNumerKandydata(listaKandydatowWybranych.size());
-            kandydatNaKtoregoGlosuje = listaKandydatowWybranych.get(numer);
-        }
     }
 }

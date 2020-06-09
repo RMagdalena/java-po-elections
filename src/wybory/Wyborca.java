@@ -15,39 +15,38 @@ public abstract class Wyborca {
         this.imie = imie;
         this.nazwisko = nazwisko;
         this.okregWyborczy = okregWyborczy;
-        this.scalonyOkreg = okregWyborczy.getScalonyZOkregiem();
+        this.scalonyOkreg = okregWyborczy.getOkregScalony();
+    }
+
+    public int[] getWagiCech() {
+        return null;
     }
 
     public void oddajGlos(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
-        if (scalonyOkreg == null) {
-            LinkedList<Kandydat> listaKandydatowWybranych = stworzListeWybranych(wszyscyKandydaci);
+        LinkedList<Kandydat> listaKandydatowWybranych = stworzListeWybranych(wszyscyKandydaci);
 
-            if (listaKandydatowWybranych.size() > 0) {
-                int numer = losujNumerKandydata(listaKandydatowWybranych.size());
-                kandydatNaKtoregoGlosuje = listaKandydatowWybranych.get(numer);
-            }
-        }
-        else {
-            okregiPolaczone(wszyscyKandydaci, scalonyOkreg);
+        if (listaKandydatowWybranych.size() > 0) {
+            int numer = losujNumerKandydata(listaKandydatowWybranych.size());
+            kandydatNaKtoregoGlosuje = listaKandydatowWybranych.get(numer);
         }
     }
 
-    protected void okregiPolaczone(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci, Okreg scalonyOkreg) {
-
-        LinkedList<Kandydat> kandydaciZOkreguPodsatawowego = stworzListeWybranych(wszyscyKandydaci);
-        LinkedList<Kandydat> kandydaciZOkreguScalonego = stworzListeWybranych(scalonyOkreg.getWszyscyKandydaciOkregu());
-        int ileKandydatow = kandydaciZOkreguPodsatawowego.size() + kandydaciZOkreguScalonego.size();
-        if (ileKandydatow > 0) {
-            int numer = losujNumerKandydata(ileKandydatow);
-            if (numer < kandydaciZOkreguPodsatawowego.size()) {
-                kandydatNaKtoregoGlosuje = kandydaciZOkreguPodsatawowego.get(numer);
-            }
-            else {
-                kandydatNaKtoregoGlosuje = kandydaciZOkreguScalonego.get(numer - kandydaciZOkreguPodsatawowego.size());
-            }
-        }
-
-    }
+//    protected void okregiPolaczone(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci, Okreg scalonyOkreg) {
+//
+//        LinkedList<Kandydat> kandydaciZOkreguPodsatawowego = stworzListeWybranych(wszyscyKandydaci);
+//        LinkedList<Kandydat> kandydaciZOkreguScalonego = stworzListeWybranych(scalonyOkreg.getWszyscyKandydaciOkregu());
+//        int ileKandydatow = kandydaciZOkreguPodsatawowego.size() + kandydaciZOkreguScalonego.size();
+//        if (ileKandydatow > 0) {
+//            int numer = losujNumerKandydata(ileKandydatow);
+//            if (numer < kandydaciZOkreguPodsatawowego.size()) {
+//                kandydatNaKtoregoGlosuje = kandydaciZOkreguPodsatawowego.get(numer);
+//            }
+//            else {
+//                kandydatNaKtoregoGlosuje = kandydaciZOkreguScalonego.get(numer - kandydaciZOkreguPodsatawowego.size());
+//            }
+//        }
+//
+//    }
 
     abstract protected LinkedList<Kandydat> stworzListeWybranych(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci);
 
@@ -56,5 +55,7 @@ public abstract class Wyborca {
         return r.nextInt(przedzial);
     }
 
-    abstract public void zmienWagi(int[] opis);
+    public void zmienWagi(int[] opis) {
+        // dziala tylko u wyborcow, ktorzy maja wagi cech
+    }
 }

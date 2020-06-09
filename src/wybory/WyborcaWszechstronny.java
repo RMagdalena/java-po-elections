@@ -14,6 +14,11 @@ public class WyborcaWszechstronny extends Wyborca {
         this.wagiCech = wagiCech;
     }
 
+    @Override
+    public int[] getWagiCech() {
+        return wagiCech;
+    }
+
     protected LinkedList<Kandydat> stworzListeWybranych(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
         LinkedList<Kandydat> listaKandydatowWybranych = new LinkedList<>();
         int maksymalnaSuma = maksymalnaSumaWazona(wszyscyKandydaci);
@@ -56,11 +61,6 @@ public class WyborcaWszechstronny extends Wyborca {
             suma += cechyKandydata[i] * wagiCech[i];
         }
         return suma;
-    }
-
-    public void zmienWagi(DzialaniaWKampanii dzialaniaWKampanii) {
-
-
     }
 
 }

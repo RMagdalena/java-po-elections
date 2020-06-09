@@ -11,7 +11,7 @@ public class Bajtocja {
 
         kampaniaWyborcza(okregi, partie, liczbaCechKandydatow, dzialaniaWKampanii);
 
-        glosowanie();
+        glosowanie(okregi);
 
         rozdanieMandatow();
 
@@ -44,8 +44,15 @@ public class Bajtocja {
         }
     }
 
-    private void glosowanie() {
-
+    private void glosowanie(Okreg[] okregi) {
+        for (Okreg okreg : okregi) {
+            if (okreg.getOkregScalony() != null) {
+                okreg.getOkregScalony().glosowanie();
+            }
+            else {
+                okreg.glosowanie();
+            }
+        }
     }
 
     private void rozdanieMandatow() {

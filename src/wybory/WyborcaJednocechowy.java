@@ -33,10 +33,6 @@ public class WyborcaJednocechowy extends Wyborca {
         return listaWybranych;
     }
 
-    @Override
-    public void zmienWagi(int[] opis) {
-        // strategia nie ma wplywu na tego wyborce
-    }
 
     protected int najlepszaWartoscCechy(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
         int min = Integer.MAX_VALUE;
