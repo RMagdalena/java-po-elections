@@ -22,6 +22,10 @@ public abstract class Wyborca {
         return null;
     }
 
+    public Kandydat getKandydatNaKtoregoGlosuje() {
+        return kandydatNaKtoregoGlosuje;
+    }
+
     public void oddajGlos(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
         LinkedList<Kandydat> listaKandydatowWybranych = stworzListeWybranych(wszyscyKandydaci);
 
@@ -30,23 +34,6 @@ public abstract class Wyborca {
             kandydatNaKtoregoGlosuje = listaKandydatowWybranych.get(numer);
         }
     }
-
-//    protected void okregiPolaczone(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci, Okreg scalonyOkreg) {
-//
-//        LinkedList<Kandydat> kandydaciZOkreguPodsatawowego = stworzListeWybranych(wszyscyKandydaci);
-//        LinkedList<Kandydat> kandydaciZOkreguScalonego = stworzListeWybranych(scalonyOkreg.getWszyscyKandydaciOkregu());
-//        int ileKandydatow = kandydaciZOkreguPodsatawowego.size() + kandydaciZOkreguScalonego.size();
-//        if (ileKandydatow > 0) {
-//            int numer = losujNumerKandydata(ileKandydatow);
-//            if (numer < kandydaciZOkreguPodsatawowego.size()) {
-//                kandydatNaKtoregoGlosuje = kandydaciZOkreguPodsatawowego.get(numer);
-//            }
-//            else {
-//                kandydatNaKtoregoGlosuje = kandydaciZOkreguScalonego.get(numer - kandydaciZOkreguPodsatawowego.size());
-//            }
-//        }
-//
-//    }
 
     abstract protected LinkedList<Kandydat> stworzListeWybranych(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci);
 

@@ -3,14 +3,19 @@ package wybory;
 import java.util.LinkedList;
 
 public class WynikiGlosowania {
-    private final LinkedList<String> listaPartii;
-    private final LinkedList<Integer> glosyOddaneNaPoszczegolnePartie;
-    private final LinkedList<Integer> glosyOddaneNaPoszczegolnychKandydatow;
+    private final Partia[] partie;
+    private final int[] glosyOddaneNaPoszczegolnePartie;
 
-    public WynikiGlosowania(LinkedList<String> listaPartii, LinkedList<Integer> glosyOddaneNaPoszczegolnePartie,
-                            LinkedList<Integer> glosyOddaneNaPoszczegolnychKandydatow) {
-        this.listaPartii = listaPartii;
+    public WynikiGlosowania(Partia[] partie, int[] glosyOddaneNaPoszczegolnePartie) {
+        this.partie = partie;
         this.glosyOddaneNaPoszczegolnePartie = glosyOddaneNaPoszczegolnePartie;
-        this.glosyOddaneNaPoszczegolnychKandydatow = glosyOddaneNaPoszczegolnychKandydatow;
+    }
+
+    public Partia[] getPartie() {
+        return partie;
+    }
+
+    public int[] getGlosyOddaneNaPoszczegolnePartie() {
+        return glosyOddaneNaPoszczegolnePartie;
     }
 }

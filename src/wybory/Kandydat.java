@@ -8,7 +8,7 @@ public class Kandydat {
     private final Partia partia;
     private final int numerNaLiscie;
     private final int[] cechyKandydata;
-    private int liczbaGlosow = 0;
+    private int liczbaGlosow;
 
     public Kandydat(String imie, String nazwisko, Partia partia, int numerNaLiscie, int[] cechyKandydata) {
         this.imie = imie;
@@ -16,6 +16,7 @@ public class Kandydat {
         this.partia = partia;
         this.numerNaLiscie = numerNaLiscie;
         this.cechyKandydata = cechyKandydata;
+        this.liczbaGlosow = 0;
     }
 
     public Partia getPartia() {

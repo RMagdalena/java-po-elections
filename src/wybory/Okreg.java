@@ -11,10 +11,8 @@ public class Okreg {
     protected final int liczbaMandatow;
     protected final LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu;
 
+    protected WynikiGlosowania wynikiGlosowania;
     protected int[] przydzieloneMandaty;
-
-//    protected Okreg scalonyZOkregiem;
-
     protected OkregScalony okregScalony;
 
     public Okreg(int numer, int liczbaWyborcow, LinkedList<Wyborca> listaWyborcow, int liczbaMandatow, LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu) {
@@ -24,8 +22,8 @@ public class Okreg {
         this.liczbaMandatow = liczbaMandatow;
         this.wszyscyKandydaciOkregu = wszyscyKandydaciOkregu;
 
+        this.wynikiGlosowania = null;
         this.przydzieloneMandaty = null;
-
         this.okregScalony = null;
     }
 
@@ -44,6 +42,10 @@ public class Okreg {
 
     public OkregScalony getOkregScalony() {
         return okregScalony;
+    }
+
+    public void setPrzydzieloneMandaty(int[] przydzieloneMandaty) {
+        this.przydzieloneMandaty = przydzieloneMandaty;
     }
 
     public void scalZOkregiem(Okreg okreg2) {
@@ -72,7 +74,18 @@ public class Okreg {
     public void glosowanie() {
         for (Wyborca wyborca : listaWyborcow) {
             wyborca.oddajGlos(wszyscyKandydaciOkregu);
+            wyborca.getKandydatNaKtoregoGlosuje().dodajGlosy();
+            wyborca.getKandydatNaKtoregoGlosuje().getPartia().dodajGlosy();
         }
+    }
+
+    public WynikiGlosowania liczenieGlosow(Partia[] partie) {
+        int[] glosyNaPartie = new int[partie.length];
+
+        // TODO
+
+        WynikiGlosowania wynikiGlosowania = new WynikiGlosowania(partie, glosyNaPartie);
+        return wynikiGlosowania;
     }
 
 }
