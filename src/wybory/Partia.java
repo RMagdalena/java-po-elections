@@ -1,13 +1,9 @@
 package wybory;
 
-import java.util.LinkedList;
-
 public class Partia {
     private final String nazwaPartii;
     private int budzet;
     private final Strategia strategiaPartii;
-
-    private LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciPartii; // TODO nieuzywane
 
     private int uzyskaneGlosy;
     private int uzyskaneMandaty;
@@ -16,7 +12,6 @@ public class Partia {
         this.nazwaPartii = nazwaPartii;
         this.budzet = budzet;
         this.strategiaPartii = strategiaPartii;
-        this.wszyscyKandydaciPartii = null;
         this.uzyskaneGlosy = 0;
         this.uzyskaneMandaty = 0;
     }
@@ -27,10 +22,6 @@ public class Partia {
 
     public int getUzyskaneGlosy() {
         return uzyskaneGlosy;
-    }
-
-    public void setWszyscyKandydaciPartii(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciPartii) {
-        this.wszyscyKandydaciPartii = wszyscyKandydaciPartii;
     }
 
     public void kampania(Okreg[] okregi, DzialaniaWKampanii[] dzialaniaWKampanii) {

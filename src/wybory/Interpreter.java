@@ -33,7 +33,7 @@ public class Interpreter {
         wczytajKandydatowIPrzypiszIchDoOkregow();
         wczytyajWyborcow();
         scalOkregi();
-        wczytajMozliweDzialania();
+        wczytajDzialania();
     }
 
     public void stworzOkregi() {
@@ -81,11 +81,6 @@ public class Interpreter {
     }
 
     public void wczytajKandydatowIPrzypiszIchDoOkregow() {
-        //imie nazwisko numerOkregu partia numer cechy
-        int liczbaMandatow = liczbaWyborcow / 10;
-        int stworzonychKandydatow = 0;
-        int liczbaWszystkichKandydatow = liczbaMandatow * tablicaPartii.length;
-
 
         for (Okreg okreg : tablicaOkregow) {
             LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu = new LinkedList<>();
@@ -97,9 +92,8 @@ public class Interpreter {
                     String opisKandydata = s.nextLine();
                     String imie = opisKandydata.split(" ")[0];
                     String nazwisko = opisKandydata.split(" ")[1];
-                    int numerOkregu = Integer.parseInt(opisKandydata.split(" ")[2]);
 
-                    Partia partiaKandydata = ktoraPartiaSieTakNazywa(opisKandydata.split(" ")[3]);
+                    Partia partiaKandydata = znajdzPartie(opisKandydata.split(" ")[3]);
 
                     int pozycjaNaLiscie = Integer.parseInt(opisKandydata.split(" ")[4]);
                     int[] tablicaCechKandydata = new int[liczbaCech];
@@ -145,7 +139,7 @@ public class Interpreter {
         }
     }
 
-    public void wczytajMozliweDzialania() {
+    public void wczytajDzialania() {
         for (int numerDzialania = 0; numerDzialania < liczbaDzialan; numerDzialania++) {
             int[] tablicaZmienionychCech = new int[liczbaCech];
             String opisDzialan = s.nextLine();
@@ -164,13 +158,13 @@ public class Interpreter {
     public Wyborca stworzWyborce(String imie, String nazwisko, Okreg okreg, int typ, String[] resztaNapisu) {
         if (typ == 1) {
             String nazwaPartii = resztaNapisu[4];
-            Partia mojaPartia = ktoraPartiaSieTakNazywa(nazwaPartii);
+            Partia mojaPartia = znajdzPartie(nazwaPartii);
             return new WyborcaZelaznyPartyjny(imie, nazwisko, okreg, mojaPartia);
         }
         if (typ == 2) {
             String nazwaPartii = resztaNapisu[4];
             int numerKandydata = Integer.parseInt(resztaNapisu[5]);
-            Partia mojaPartia = ktoraPartiaSieTakNazywa(nazwaPartii);
+            Partia mojaPartia = znajdzPartie(nazwaPartii);
             return new WyborcaZelaznyPartyjnyKandydata(imie, nazwisko, okreg, mojaPartia, numerKandydata);
         }
 
@@ -196,14 +190,14 @@ public class Interpreter {
         if (typ == 6) {
             int numerCechy = Integer.parseInt(resztaNapisu[4]);
             String nazwaPartii = resztaNapisu[5];
-            Partia mojaPartia = ktoraPartiaSieTakNazywa(nazwaPartii);
+            Partia mojaPartia = znajdzPartie(nazwaPartii);
             return new WyborcaJednocechowyPartyjny(imie, nazwisko, okreg, numerCechy, true, false, mojaPartia);
         }
 
         if (typ == 7) {
             int numerCechy = Integer.parseInt(resztaNapisu[4]);
             String nazwaPartii = resztaNapisu[5];
-            Partia mojaPartia = ktoraPartiaSieTakNazywa(nazwaPartii);
+            Partia mojaPartia = znajdzPartie(nazwaPartii);
             return new WyborcaJednocechowyPartyjny(imie, nazwisko, okreg, numerCechy, false, true, mojaPartia);
         }
 
@@ -213,14 +207,14 @@ public class Interpreter {
                 tablicaWag[i] = Integer.parseInt(resztaNapisu[4 + i]);
             }
             String nazwaPartii = resztaNapisu[4 + liczbaCech];
-            Partia mojaPartia = ktoraPartiaSieTakNazywa(nazwaPartii);
+            Partia mojaPartia = znajdzPartie(nazwaPartii);
 
             return new WyborcaWszechstronnyPartyjny(imie, nazwisko, okreg, tablicaWag, mojaPartia);
         }
         return null;
     }
 
-    public Partia ktoraPartiaSieTakNazywa(String nazwa) {
+    public Partia znajdzPartie(String nazwa) {
         for (Partia partia : tablicaPartii) {
             String nazwaPartii = partia.getNazwaPartii();
             if (nazwaPartii.equals(nazwa)) {

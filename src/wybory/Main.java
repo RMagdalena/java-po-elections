@@ -1,11 +1,27 @@
 package wybory;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+    public static void main(String[] args) throws FileNotFoundException {
+        Scanner s1 = new Scanner(new File(args[0]));
+        Scanner s2 = new Scanner(new File(args[0]));
+        Scanner s3 = new Scanner(new File(args[0]));
+
+        stworzSwiat(s1, new MetodaHareaNiemeyera());
+        stworzSwiat(s2, new MetodaDHondta());
+        stworzSwiat(s3, new MetodaSaintLague());
+    }
+
+    public static void przeprowadzWyboryWybranaMetoda(Okreg[] tablicaOkregow, Partia[] tablicaPartii, DzialaniaWKampanii[] tablicaDzialan, Metoda metoda) {
+        Bajtocja bajtocja = new Bajtocja();
+        bajtocja.przeprowadzWybory(tablicaOkregow, tablicaPartii, tablicaDzialan, metoda);
+    }
+
+    private static void stworzSwiat(Scanner s, Metoda metoda) {
 
         Okreg[] tablicaOkregow = new Okreg[s.nextInt()];
         Partia[] tablicaPartii = new Partia[s.nextInt()];
@@ -19,18 +35,7 @@ public class Main {
         tablicaOkregow = interpreter.getTabliceOkregow();
         tablicaPartii = interpreter.getTablicePartii();
         DzialaniaWKampanii[] tablicaDzialan = interpreter.getTabliceDzialan();
-
-        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaSaintLague());
+        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, metoda);
         System.out.println("");
-        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaHareaNiemeyera());
-        System.out.println("");
-        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaDHondta());
-    }
-
-    public static void przeprowadzWyboryWybranaMetoda(Okreg[] tablicaOkregow, Partia[] tablicaPartii, DzialaniaWKampanii[] tablicaDzialan, Metoda metoda) {
-        Okreg[] tablicaOkregowKopia = tablicaOkregow.clone();
-        Partia[] tablicaPartiiKopia = tablicaPartii.clone();
-        Bajtocja bajtocja = new Bajtocja();
-        bajtocja.przeprowadzWybory(tablicaOkregowKopia, tablicaPartiiKopia, tablicaDzialan, metoda);
     }
 }

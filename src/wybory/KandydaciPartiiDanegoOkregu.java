@@ -16,10 +16,6 @@ public class KandydaciPartiiDanegoOkregu {
         return partia;
     }
 
-    public Okreg getOkreg() {
-        return okreg;
-    } // TODO nieuzywane
-
     public Kandydat[] getKandydaciPartii() {
         return kandydaciPartii;
     }

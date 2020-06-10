@@ -82,7 +82,6 @@ public class Bajtocja {
     private void wypiszPosumowanie(Okreg[] okregi, Partia[] partie, Metoda metoda) {
         StringBuilder wynik = new StringBuilder();
         wynik.append(metoda.toString());
-        wynik.append("Okregi:\n");
         if (okregi != null) {
             for (Okreg okreg : okregi) {
                 Okreg aktualnyOkreg = okreg;
@@ -94,16 +93,14 @@ public class Bajtocja {
                         continue;
                     }
                 }
-                wynik.append("_" + aktualnyOkreg.wypisz(partie) + "\n");
+                wynik.append(aktualnyOkreg.wypisz(partie) + "\n");
             }
         }
-        wynik.append("Mandaty partii w skali kraju:\n");
         if (partie != null) {
             for (Partia partia : partie) {
-                wynik.append("_" + partia.wypiszMandaty() + "\n");
+                wynik.append(partia.wypiszMandaty() + "\n");
             }
         }
         System.out.println(wynik);
     }
 }
-

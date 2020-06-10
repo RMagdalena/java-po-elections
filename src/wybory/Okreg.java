@@ -116,16 +116,14 @@ public class Okreg {
     public StringBuilder wypisz(Partia[] partie) {
         StringBuilder wynik = new StringBuilder();
         if (wszyscyKandydaciOkregu != null && listaWyborcow != null && wynikiGlosowania != null) {
-            wynik.append("Okreg numer " + numer + ":\n"
-                    + "__Kandydaci:\n");
+            wynik.append(numer + "\n");
             for (KandydaciPartiiDanegoOkregu kandydaciPartiiDanegoOkregu : wszyscyKandydaciOkregu) {
-                wynik.append("___" + kandydaciPartiiDanegoOkregu.wypisz());
+                wynik.append(kandydaciPartiiDanegoOkregu.wypisz());
             }
-            wynik.append("__Wyborcy:\n");
             for (Wyborca wyborca : listaWyborcow) {
-                wynik.append("___" + wyborca.wypisz());
+                wynik.append(wyborca.wypisz());
             }
-            wynik.append("__Mandaty partii w okregu:\n" + wypiszMandatyZOkregu(partie));
+            wynik.append("\n" + wypiszMandatyZOkregu(partie));
         }
         return wynik;
     }
@@ -134,7 +132,7 @@ public class Okreg {
         StringBuilder wynik = new StringBuilder();
         for (int i = 0; i < partie.length; i++) {
             if (partie[i] != null && przydzieloneMandaty != null) {
-                wynik.append("___" + partie[i].getNazwaPartii() + " " + przydzieloneMandaty[i] + '\n');
+                wynik.append(partie[i].getNazwaPartii() + " " + przydzieloneMandaty[i] + '\n');
             }
         }
         return wynik;

@@ -150,7 +150,7 @@ class BajtocjaTest {
         kpA.add(kandydaciPartiiOkregu2);
         kpA.add(kandydaciPartiiOkregu3);
 
-        PartiaA.setWszyscyKandydaciPartii(kpA);
+//        PartiaA.setWszyscyKandydaciPartii(kpA);
 
         o1.scalZOkregiem(o2);
 
@@ -361,7 +361,7 @@ class BajtocjaTest {
         kpA.add(kandydaciPartiiOkregu2);
         kpA.add(kandydaciPartiiOkregu3);
 
-        PartiaA.setWszyscyKandydaciPartii(kpA);
+//        PartiaA.setWszyscyKandydaciPartii(kpA);
 
         // DZIALANIA
         int[] opis1 = new int[]{-9, 3};

@@ -13,14 +13,14 @@ public class MetodaHareaNiemeyera implements Metoda {
 
         int[] glosyNaPartieWOkregu = wynikiGlosowaniaOkregu.getGlosyOddaneNaPoszczegolnePartie();
 
-        int glosyZCalegoKraju = glosyZCalegoKraju(glosyNaPartieWOkregu);
+        int sumaGlosowWOkregu = sumaGlosowWOkregu(glosyNaPartieWOkregu);
 
         Partia[] listaPartii = wynikiGlosowaniaOkregu.getPartie();
         int[] wykazMandatow = new int[listaPartii.length];
         int rozdzieloneMandaty = 0;
         float proporcjaDlaPartii;
         for (int i = 0; i < glosyNaPartieWOkregu.length; i++) {
-            proporcjaDlaPartii = ((float) glosyNaPartieWOkregu[i] * liczbaMandatowOkregu) / ((float) glosyZCalegoKraju);
+            proporcjaDlaPartii = ((float) glosyNaPartieWOkregu[i] * liczbaMandatowOkregu) / ((float) sumaGlosowWOkregu);
             proporcje.add(proporcjaDlaPartii);
             wykazMandatow[i] = (int) Math.floor(proporcjaDlaPartii);
             rozdzieloneMandaty += wykazMandatow[i];
@@ -29,12 +29,12 @@ public class MetodaHareaNiemeyera implements Metoda {
         return rozdzielPoPrzecinku(wykazMandatow, rozdzieloneMandaty, liczbaMandatowOkregu, poPrzecinku);
     }
 
-    private int glosyZCalegoKraju(int[] glosyNaPartieWOkregu) {
-        int glosyZCalegoKraju = 0;
+    private int sumaGlosowWOkregu(int[] glosyNaPartieWOkregu) {
+        int sumaGlosowWOkregu = 0;
         for (int i : glosyNaPartieWOkregu) {
-            glosyZCalegoKraju += i;
+            sumaGlosowWOkregu += i;
         }
-        return glosyZCalegoKraju;
+        return sumaGlosowWOkregu;
     }
 
 
