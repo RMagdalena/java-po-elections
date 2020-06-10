@@ -115,22 +115,17 @@ public class Okreg {
 
     public StringBuilder wypisz(Partia[] partie) {
         StringBuilder wynik = new StringBuilder();
-        if (okregScalony != null) {
-            wynik.append(okregScalony.wypisz(partie));
-        }
-        else {
-            if (wszyscyKandydaciOkregu != null && listaWyborcow != null && wynikiGlosowania != null) {
-                wynik.append("Okreg numer " + numer + ":\n"
-                        + "__Kandydaci:\n");
-                for (KandydaciPartiiDanegoOkregu kandydaciPartiiDanegoOkregu : wszyscyKandydaciOkregu) {
-                    wynik.append("___" + kandydaciPartiiDanegoOkregu.wypisz());
-                }
-                wynik.append("__Wyborcy:\n");
-                for (Wyborca wyborca : listaWyborcow) {
-                    wynik.append("___" + wyborca.wypisz());
-                }
-                wynik.append("__Mandaty partii w okregu:\n" + wypiszMandatyZOkregu(partie));
+        if (wszyscyKandydaciOkregu != null && listaWyborcow != null && wynikiGlosowania != null) {
+            wynik.append("Okreg numer " + numer + ":\n"
+                    + "__Kandydaci:\n");
+            for (KandydaciPartiiDanegoOkregu kandydaciPartiiDanegoOkregu : wszyscyKandydaciOkregu) {
+                wynik.append("___" + kandydaciPartiiDanegoOkregu.wypisz());
             }
+            wynik.append("__Wyborcy:\n");
+            for (Wyborca wyborca : listaWyborcow) {
+                wynik.append("___" + wyborca.wypisz());
+            }
+            wynik.append("__Mandaty partii w okregu:\n" + wypiszMandatyZOkregu(partie));
         }
         return wynik;
     }

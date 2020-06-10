@@ -13,10 +13,14 @@ public class StrategiaZachlanna implements Strategia {
         int najwiekszyWynik = Integer.MIN_VALUE;
 
         for (Okreg okreg : okregi) {
-
             Okreg aktualnyOkreg = okreg;
             if (okreg.okregScalony != null) {
-                aktualnyOkreg = okreg.okregScalony;
+                if (okreg.getNumer() <= okreg.getOkregScalony().getNumer()) {
+                    aktualnyOkreg = okreg.okregScalony;
+                }
+                else {
+                    continue;
+                }
             }
 
             LinkedList<Wyborca> wyborcyZOkregu = aktualnyOkreg.getListaWyborcow();

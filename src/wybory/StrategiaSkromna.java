@@ -23,7 +23,12 @@ public class StrategiaSkromna implements Strategia {
         int min = Integer.MAX_VALUE;
         Okreg aktualnyOkreg = okreg;
         if (okreg.okregScalony != null) {
-            aktualnyOkreg = okreg.okregScalony;
+            if (okreg.getNumer() <= okreg.getOkregScalony().getNumer()) {
+                aktualnyOkreg = okreg.okregScalony;
+            }
+            else {
+                return dzialanie;
+            }
         }
         for (DzialaniaWKampanii d : dzialaniaWKampanii) {
             if (d.koszt(aktualnyOkreg.getLiczbaWyborcow()) < min) {
@@ -41,6 +46,9 @@ public class StrategiaSkromna implements Strategia {
             if (okreg.okregScalony != null) {
                 if (okreg.getNumer() < okreg.getOkregScalony().getNumer()) {
                     aktualnyOkreg = okreg.okregScalony;
+                }
+                else {
+                    continue;
                 }
             }
             if (aktualnyOkreg.getLiczbaWyborcow() < najmniej) {

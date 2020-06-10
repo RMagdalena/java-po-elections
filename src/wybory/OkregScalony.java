@@ -27,6 +27,7 @@ public class OkregScalony extends Okreg {
         return okreg2;
     }
 
+    @Override
     public StringBuilder wypisz(Partia[] partie) {
         StringBuilder wynik = new StringBuilder();
         if (!wypisano && wszyscyKandydaciOkregu != null && listaWyborcow != null && wynikiGlosowania != null) {

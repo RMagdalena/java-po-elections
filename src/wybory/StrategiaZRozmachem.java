@@ -11,7 +11,12 @@ public class StrategiaZRozmachem implements Strategia {
             for (Okreg o : okregi) {
                 Okreg aktualnyOkreg = o;
                 if (o.okregScalony != null) {
-                    aktualnyOkreg = o.okregScalony;
+                    if (o.getNumer() <= o.getOkregScalony().getNumer()) {
+                        aktualnyOkreg = o.okregScalony;
+                    }
+                    else {
+                        continue;
+                    }
                 }
                 int koszt = d.koszt(o.getLiczbaWyborcow());
                 if (koszt > maks && koszt <= budzet) {
@@ -22,6 +27,7 @@ public class StrategiaZRozmachem implements Strategia {
             }
         }
         if (dzialanie != null) {
+            partiaZlecajaca.zaplacZaDzialanie(maks);
             dzialanie.wykonaj(okreg);
             return true;
         }

@@ -27,12 +27,16 @@ public class Bajtocja {
     private void glosowanie(Okreg[] okregi) {
         for (Okreg okreg : okregi) {
             if (okreg != null) {
-                if (okreg.getOkregScalony() != null) {
-                    okreg.getOkregScalony().glosowanie();
+                Okreg aktualnyOkreg = okreg;
+                if (okreg.okregScalony != null) {
+                    if (okreg.getNumer() <= okreg.getOkregScalony().getNumer()) {
+                        aktualnyOkreg = okreg.okregScalony;
+                    }
+                    else {
+                        continue;
+                    }
                 }
-                else {
-                    okreg.glosowanie();
-                }
+                aktualnyOkreg.glosowanie();
             }
         }
     }
@@ -41,8 +45,13 @@ public class Bajtocja {
         for (Okreg okreg : okregi) {
             if (okreg != null) {
                 Okreg aktualnyOkreg = okreg;
-                if (okreg.getOkregScalony() != null) {
-                    aktualnyOkreg = okreg.getOkregScalony();
+                if (okreg.okregScalony != null) {
+                    if (okreg.getNumer() <= okreg.getOkregScalony().getNumer()) {
+                        aktualnyOkreg = okreg.okregScalony;
+                    }
+                    else {
+                        continue;
+                    }
                 }
                 aktualnyOkreg.liczenieGlosow(partie);
             }
@@ -53,8 +62,13 @@ public class Bajtocja {
         for (Okreg okreg : okregi) {
             Okreg aktualnyOkreg = okreg;
             if (okreg != null) {
-                if (aktualnyOkreg.getOkregScalony() != null) {
-                    aktualnyOkreg = aktualnyOkreg.getOkregScalony();
+                if (okreg.okregScalony != null) {
+                    if (okreg.getNumer() <= okreg.getOkregScalony().getNumer()) {
+                        aktualnyOkreg = okreg.okregScalony;
+                    }
+                    else {
+                        continue;
+                    }
                 }
                 int[] podzialMandatow = metoda.rozdajMandatyWOkregu(aktualnyOkreg.wynikiGlosowania, aktualnyOkreg.liczbaMandatow);
                 aktualnyOkreg.setPrzydzieloneMandaty(podzialMandatow);
@@ -71,7 +85,16 @@ public class Bajtocja {
         wynik.append("Okregi:\n");
         if (okregi != null) {
             for (Okreg okreg : okregi) {
-                wynik.append("_" + okreg.wypisz(partie) + "\n");
+                Okreg aktualnyOkreg = okreg;
+                if (okreg.okregScalony != null) {
+                    if (okreg.getNumer() <= okreg.getOkregScalony().getNumer()) {
+                        aktualnyOkreg = okreg.okregScalony;
+                    }
+                    else {
+                        continue;
+                    }
+                }
+                wynik.append("_" + aktualnyOkreg.wypisz(partie) + "\n");
             }
         }
         wynik.append("Mandaty partii w skali kraju:\n");

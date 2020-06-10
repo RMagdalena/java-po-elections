@@ -131,7 +131,7 @@ public class Interpreter {
 
             if (numerOkregu != numerOstatnioDodanegoOkregu) {
                 tablicaOkregow[numerOstatnioDodanegoOkregu - 1].setListaWyborcow(listaWyborcow);
-                listaWyborcow.clear();
+                listaWyborcow = new LinkedList<>();
             }
             listaWyborcow.add(wyborca);
             numerOstatnioDodanegoOkregu = numerOkregu;

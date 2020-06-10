@@ -20,5 +20,3 @@ public class WyborcaJednocechowyPartyjny extends WyborcaJednocechowy {
         super.oddajGlos(WybieraZPartii.wybierzKandydatowDanejPartii(kandydaci, wybranaPartia));
     }
 }
-
-

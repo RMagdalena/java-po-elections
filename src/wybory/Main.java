@@ -21,10 +21,10 @@ public class Main {
         DzialaniaWKampanii[] tablicaDzialan = interpreter.getTabliceDzialan();
 
         przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaSaintLague());
-//        System.out.println("");
-//        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaHareaNiemeyera());
-//        System.out.println("");
-//        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaDHondta());
+        System.out.println("");
+        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaHareaNiemeyera());
+        System.out.println("");
+        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaDHondta());
     }
 
     public static void przeprowadzWyboryWybranaMetoda(Okreg[] tablicaOkregow, Partia[] tablicaPartii, DzialaniaWKampanii[] tablicaDzialan, Metoda metoda) {
