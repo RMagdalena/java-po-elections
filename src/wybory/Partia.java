@@ -25,6 +25,10 @@ public class Partia {
         return nazwaPartii;
     }
 
+    public int getUzyskaneGlosy() {
+        return uzyskaneGlosy;
+    }
+
     public void setWszyscyKandydaciPartii(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciPartii) {
         this.wszyscyKandydaciPartii = wszyscyKandydaciPartii;
     }

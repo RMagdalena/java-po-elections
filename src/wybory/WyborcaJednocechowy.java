@@ -5,7 +5,7 @@ import java.util.LinkedList;
 public class WyborcaJednocechowy extends Wyborca {
 
     protected int cecha;
-    protected final boolean minimalizuje; // Justyna C 1 3 1 // I N numerOkregu typWyborcy numerCechy
+    protected final boolean minimalizuje; // Justyna C 1 3 1
     protected final boolean maksymalizuje; // Konrad T 1 4 4
 
     public WyborcaJednocechowy(String imie, String nazwisko, Okreg okreg, int cecha, boolean minimalizuje, boolean maksymalizuje) {
@@ -14,7 +14,6 @@ public class WyborcaJednocechowy extends Wyborca {
         this.minimalizuje = minimalizuje;
         this.maksymalizuje = maksymalizuje;
     }
-
 
     @Override
     protected LinkedList<Kandydat> stworzListeWybranych(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
@@ -32,7 +31,6 @@ public class WyborcaJednocechowy extends Wyborca {
         }
         return listaWybranych;
     }
-
 
     protected int najlepszaWartoscCechy(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
         int min = Integer.MAX_VALUE;

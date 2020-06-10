@@ -1,28 +1,36 @@
 package wybory;
 
+import java.util.Scanner;
+
 public class Main {
 
-    public void wypiszWynik() {
-        // przykladowe dane
-        Okreg[] okregi = new Okreg[1];
-        Partia[] partie = new Partia[1];
-        int cechy = 4;
-        DzialaniaWKampanii[] dzialaniaWKampanii = new DzialaniaWKampanii[5];
-        Metoda metoda = new MetodaHareaNiemeyera();
-        // koniec przykladowych danych
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
 
-        Bajtocja bajtocja = new Bajtocja();
+        Okreg[] tablicaOkregow = new Okreg[s.nextInt()];
+        Partia[] tablicaPartii = new Partia[s.nextInt()];
 
-        metoda = new MetodaDHondta();
-        bajtocja.przeprowadzWybory(okregi, partie, dzialaniaWKampanii, metoda);
+        int liczbaDzialan = s.nextInt();
+        int liczbaCech = s.nextInt();
+        int liczbaPolaczonychOkregow = s.nextInt();
 
-        metoda = new MetodaSaintLague();
-        bajtocja.przeprowadzWybory(okregi, partie, dzialaniaWKampanii, metoda);
+        Interpreter interpreter = new Interpreter(s, tablicaPartii, tablicaOkregow, liczbaCech, liczbaDzialan, liczbaPolaczonychOkregow);
+        interpreter.stworzSwiatWyborow();
+        tablicaOkregow = interpreter.getTabliceOkregow();
+        tablicaPartii = interpreter.getTablicePartii();
+        DzialaniaWKampanii[] tablicaDzialan = interpreter.getTabliceDzialan();
 
-        metoda = new MetodaHareaNiemeyera();
-        bajtocja.przeprowadzWybory(okregi, partie, dzialaniaWKampanii, metoda);
-
-
+        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaSaintLague());
+//        System.out.println("");
+//        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaHareaNiemeyera());
+//        System.out.println("");
+//        przeprowadzWyboryWybranaMetoda(tablicaOkregow, tablicaPartii, tablicaDzialan, new MetodaDHondta());
     }
 
+    public static void przeprowadzWyboryWybranaMetoda(Okreg[] tablicaOkregow, Partia[] tablicaPartii, DzialaniaWKampanii[] tablicaDzialan, Metoda metoda) {
+        Okreg[] tablicaOkregowKopia = tablicaOkregow.clone();
+        Partia[] tablicaPartiiKopia = tablicaPartii.clone();
+        Bajtocja bajtocja = new Bajtocja();
+        bajtocja.przeprowadzWybory(tablicaOkregowKopia, tablicaPartiiKopia, tablicaDzialan, metoda);
+    }
 }

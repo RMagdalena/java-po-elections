@@ -39,13 +39,14 @@ public class StrategiaSkromna implements Strategia {
         for (Okreg okreg : okregi) {
             Okreg aktualnyOkreg = okreg;
             if (okreg.okregScalony != null) {
-                aktualnyOkreg = okreg.okregScalony;
+                if (okreg.getNumer() < okreg.getOkregScalony().getNumer()) {
+                    aktualnyOkreg = okreg.okregScalony;
+                }
             }
             if (aktualnyOkreg.getLiczbaWyborcow() < najmniej) {
                 wynik = aktualnyOkreg;
                 najmniej = aktualnyOkreg.getLiczbaWyborcow();
             }
-
         }
         return wynik;
     }

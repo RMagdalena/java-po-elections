@@ -1,6 +1,5 @@
 package wybory;
 
-import java.util.Collection;
 import java.util.LinkedList;
 
 public class Okreg {
@@ -9,7 +8,7 @@ public class Okreg {
     protected int liczbaWyborcow;
     protected LinkedList<Wyborca> listaWyborcow;
 
-    protected final int liczbaMandatow;
+    protected int liczbaMandatow;
     protected LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu;
 
     protected WynikiGlosowania wynikiGlosowania;
@@ -20,7 +19,7 @@ public class Okreg {
         this.numer = numer;
         this.liczbaWyborcow = 0;
         this.listaWyborcow = null;
-        this.liczbaMandatow = liczbaWyborcow; // TODO /10 testy
+        this.liczbaMandatow = liczbaWyborcow / 10;
         this.wszyscyKandydaciOkregu = null;
 
         this.wynikiGlosowania = null;
@@ -28,9 +27,20 @@ public class Okreg {
         this.okregScalony = null;
     }
 
-
     public int getLiczbaWyborcow() {
         return liczbaWyborcow;
+    }
+
+    public void setLiczbaWyborcow(int liczbaWyborcow) {
+        this.liczbaWyborcow = liczbaWyborcow;
+    }
+
+    public void setLiczbaMandatow(int liczbaMandatow) {
+        this.liczbaMandatow = liczbaMandatow;
+    }
+
+    public int getLiczbaMandatow() {
+        return liczbaMandatow;
     }
 
     public LinkedList<Wyborca> getListaWyborcow() {
@@ -45,6 +55,14 @@ public class Okreg {
         return okregScalony;
     }
 
+    protected int getNumer() {
+        return numer;
+    }
+
+    public void setOkregScalony(OkregScalony okregScalony) {
+        this.okregScalony = okregScalony;
+    }
+
     public void setPrzydzieloneMandaty(int[] przydzieloneMandaty) {
         this.przydzieloneMandaty = przydzieloneMandaty;
     }
@@ -55,33 +73,50 @@ public class Okreg {
 
     public void setListaWyborcow(LinkedList<Wyborca> listaWyborcow) {
         this.listaWyborcow = listaWyborcow;
-        this.liczbaWyborcow = listaWyborcow.size();
     }
 
     public void scalZOkregiem(Okreg okreg2) {
 
         int nowyNumer = this.numer;
-        int nowaLiczbaWyborcow = this.liczbaWyborcow + okreg2.liczbaWyborcow;
 
         LinkedList<Wyborca> nowaListaWyborcow = new LinkedList<>();
         nowaListaWyborcow.addAll(this.listaWyborcow);
         nowaListaWyborcow.addAll(okreg2.listaWyborcow);
 
-        int nowaLiczbaMandatow = this.liczbaMandatow + okreg2.liczbaMandatow;
-
         LinkedList<KandydaciPartiiDanegoOkregu> nowiWszyscyKandydaciOkregu = new LinkedList<>();
         nowiWszyscyKandydaciOkregu.addAll(this.wszyscyKandydaciOkregu);
         nowiWszyscyKandydaciOkregu.addAll(okreg2.wszyscyKandydaciOkregu);
 
-        OkregScalony okregScalony = new OkregScalony(nowyNumer, nowaLiczbaWyborcow, nowaListaWyborcow, nowaLiczbaMandatow, nowiWszyscyKandydaciOkregu, this, okreg2);
+        OkregScalony okregScalony = new OkregScalony(nowyNumer, nowaListaWyborcow, nowiWszyscyKandydaciOkregu, this, okreg2);
 
         this.okregScalony = okregScalony;
+        okreg2.setOkregScalony(this.okregScalony);
+    }
+
+
+    // WYBORY
+
+    public void glosowanie() {
+        for (Wyborca wyborca : listaWyborcow) {
+            wyborca.oddajGlos(wszyscyKandydaciOkregu);
+            wyborca.getKandydatNaKtoregoGlosuje().dodajGlosy();
+            wyborca.getKandydatNaKtoregoGlosuje().getPartia().dodajGlosy();
+        }
+    }
+
+    public void liczenieGlosow(Partia[] partie) {
+        int[] glosyNaPartie = new int[partie.length];
+
+        for (int i = 0; i < partie.length; i++) {
+            glosyNaPartie[i] = partie[i].getUzyskaneGlosy();
+        }
+        this.wynikiGlosowania = new WynikiGlosowania(partie, glosyNaPartie);
     }
 
     public StringBuilder wypisz(Partia[] partie) {
         StringBuilder wynik = new StringBuilder();
         if (okregScalony != null) {
-            wynik.append(okregScalony.toString());
+            wynik.append(okregScalony.wypisz(partie));
         }
         else {
             if (wszyscyKandydaciOkregu != null && listaWyborcow != null && wynikiGlosowania != null) {
@@ -108,28 +143,5 @@ public class Okreg {
             }
         }
         return wynik;
-    }
-
-    // WYBORY
-
-    public void glosowanie() {
-        for (Wyborca wyborca : listaWyborcow) {
-            wyborca.oddajGlos(wszyscyKandydaciOkregu);
-            wyborca.getKandydatNaKtoregoGlosuje().dodajGlosy();
-            wyborca.getKandydatNaKtoregoGlosuje().getPartia().dodajGlosy();
-        }
-    }
-
-    public WynikiGlosowania liczenieGlosow(Partia[] partie) {
-        int[] glosyNaPartie = new int[partie.length];
-
-        // TODO
-
-        WynikiGlosowania wynikiGlosowania = new WynikiGlosowania(partie, glosyNaPartie);
-        return wynikiGlosowania;
-    }
-
-    public void setWynikiGlosowania(WynikiGlosowania wynikiGlosowania) { // TODO do testow
-        this.wynikiGlosowania = wynikiGlosowania;
     }
 }

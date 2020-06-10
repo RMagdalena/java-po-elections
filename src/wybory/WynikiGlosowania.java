@@ -1,7 +1,5 @@
 package wybory;
 
-import java.util.LinkedList;
-
 public class WynikiGlosowania {
     private final Partia[] partie;
     private final int[] glosyOddaneNaPoszczegolnePartie;
@@ -19,7 +17,7 @@ public class WynikiGlosowania {
         return glosyOddaneNaPoszczegolnePartie;
     }
 
-//    public StringBuilder wypisz() {
+//    public StringBuilder wypisz() { // TODO
 //        StringBuilder wynik = new StringBuilder();
 //        for (int i = 0; i < partie.length; i++) {
 //            if (partie[i] != null) {

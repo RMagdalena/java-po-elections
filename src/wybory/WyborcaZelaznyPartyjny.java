@@ -31,7 +31,6 @@ public class WyborcaZelaznyPartyjny extends Wyborca {
         return wybraniKandydaci;
     }
 
-
     protected int numerKandydata(LinkedList<KandydaciPartiiDanegoOkregu> kandydaciPartii) {
         return losujNumerKandydata(kandydaciPartii.get(0).getKandydaciPartii().length);
     }

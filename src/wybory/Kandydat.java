@@ -1,7 +1,5 @@
 package wybory;
 
-import java.util.Arrays;
-
 public class Kandydat {
     private final String imie;
     private final String nazwisko;

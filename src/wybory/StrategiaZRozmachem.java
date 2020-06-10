@@ -1,7 +1,5 @@
 package wybory;
 
-import java.util.Arrays;
-
 public class StrategiaZRozmachem implements Strategia {
     @Override
     public boolean wykonajDzialanie(DzialaniaWKampanii[] dzialania, int budzet, Okreg[] okregi, Partia partiaZlecajaca) {

@@ -1,7 +1,6 @@
 package wybory;
 
 import java.util.LinkedList;
-import java.util.Random;
 
 public class WyborcaWszechstronny extends Wyborca {
 
@@ -62,5 +61,4 @@ public class WyborcaWszechstronny extends Wyborca {
         }
         return suma;
     }
-
 }

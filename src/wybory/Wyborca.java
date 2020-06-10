@@ -53,8 +53,4 @@ public abstract class Wyborca {
         }
         return wynik;
     }
-
-    public void setKandydatNaKtoregoGlosuje(Kandydat kandydatNaKtoregoGlosuje) { // TODO do testow
-        this.kandydatNaKtoregoGlosuje = kandydatNaKtoregoGlosuje;
-    }
 }

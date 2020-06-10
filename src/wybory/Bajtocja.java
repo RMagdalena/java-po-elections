@@ -1,8 +1,5 @@
 package wybory;
 
-import java.util.LinkedList;
-import java.util.Random;
-
 public class Bajtocja {
 
     public void przeprowadzWybory(Okreg[] okregi, Partia[] partie, DzialaniaWKampanii[] dzialaniaWKampanii, Metoda metoda) {
@@ -11,7 +8,7 @@ public class Bajtocja {
 
         glosowanie(okregi);
 
-        WynikiGlosowania wynikiGlosowania = liczenieGlosow(okregi, partie);
+        liczenieGlosow(okregi, partie);
 
         rozdanieMandatow(okregi, partie, metoda);
 
@@ -40,14 +37,16 @@ public class Bajtocja {
         }
     }
 
-    private WynikiGlosowania liczenieGlosow(Okreg[] okregi, Partia[] partie) {
-
+    private void liczenieGlosow(Okreg[] okregi, Partia[] partie) {
         for (Okreg okreg : okregi) {
             if (okreg != null) {
-                okreg.liczenieGlosow(partie);
+                Okreg aktualnyOkreg = okreg;
+                if (okreg.getOkregScalony() != null) {
+                    aktualnyOkreg = okreg.getOkregScalony();
+                }
+                aktualnyOkreg.liczenieGlosow(partie);
             }
         }
-        return null; // TODO
     }
 
     private void rozdanieMandatow(Okreg[] okregi, Partia[] partie, Metoda metoda) {
@@ -66,7 +65,7 @@ public class Bajtocja {
         }
     }
 
-    public void wypiszPosumowanie(Okreg[] okregi, Partia[] partie, Metoda metoda) { // TODO public bo testy
+    private void wypiszPosumowanie(Okreg[] okregi, Partia[] partie, Metoda metoda) {
         StringBuilder wynik = new StringBuilder();
         wynik.append(metoda.toString());
         wynik.append("Okregi:\n");
