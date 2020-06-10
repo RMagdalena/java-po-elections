@@ -45,4 +45,16 @@ public abstract class Wyborca {
     public void zmienWagi(int[] opis) {
         // dziala tylko u wyborcow, ktorzy maja wagi cech
     }
+
+    public StringBuilder wypisz() {
+        StringBuilder wynik = new StringBuilder();
+        if (kandydatNaKtoregoGlosuje != null) {
+            return wynik.append(imie + ' ' + nazwisko + ' ' + kandydatNaKtoregoGlosuje.wypiszImieNazwisko() + "\n");
+        }
+        return wynik;
+    }
+
+    public void setKandydatNaKtoregoGlosuje(Kandydat kandydatNaKtoregoGlosuje) { // TODO do testow
+        this.kandydatNaKtoregoGlosuje = kandydatNaKtoregoGlosuje;
+    }
 }

@@ -5,11 +5,9 @@ import java.util.Random;
 
 public class Bajtocja {
 
-    public void przeprowadzWybory(Okreg[] okregi, Partia[] partie, int liczbaCechKandydatow, DzialaniaWKampanii[] dzialaniaWKampanii, Metoda metoda) {
+    public void przeprowadzWybory(Okreg[] okregi, Partia[] partie, DzialaniaWKampanii[] dzialaniaWKampanii, Metoda metoda) {
 
-        // TODO usunac liczbe cech kandydatow
-
-        kampaniaWyborcza(okregi, partie, liczbaCechKandydatow, dzialaniaWKampanii);
+        kampaniaWyborcza(okregi, partie, dzialaniaWKampanii);
 
         glosowanie(okregi);
 
@@ -21,10 +19,10 @@ public class Bajtocja {
     }
 
 
-    private void kampaniaWyborcza(Okreg[] okregi, Partia[] partie, int liczbaCechKandydatow, DzialaniaWKampanii[] dzialaniaWKampanii) {
+    private void kampaniaWyborcza(Okreg[] okregi, Partia[] partie, DzialaniaWKampanii[] dzialaniaWKampanii) {
         for (Partia partia : partie) {
             if (partia != null) {
-                partia.kampania(okregi, liczbaCechKandydatow, dzialaniaWKampanii);
+                partia.kampania(okregi, dzialaniaWKampanii);
             }
         }
     }
@@ -68,14 +66,22 @@ public class Bajtocja {
         }
     }
 
-    private void wypiszPosumowanie(Okreg[] okregi, Partia[] partie, Metoda metoda) {
-        metoda.toString();
-        for (Okreg okreg : okregi) {
-            okreg.toString();
+    public void wypiszPosumowanie(Okreg[] okregi, Partia[] partie, Metoda metoda) { // TODO public bo testy
+        StringBuilder wynik = new StringBuilder();
+        wynik.append(metoda.toString());
+        wynik.append("Okregi:\n");
+        if (okregi != null) {
+            for (Okreg okreg : okregi) {
+                wynik.append("_" + okreg.wypisz(partie) + "\n");
+            }
         }
-        for (Partia partia : partie) {
-            partia.toString();
+        wynik.append("Mandaty partii w skali kraju:\n");
+        if (partie != null) {
+            for (Partia partia : partie) {
+                wynik.append("_" + partia.wypiszMandaty() + "\n");
+            }
         }
+        System.out.println(wynik);
     }
 }
 

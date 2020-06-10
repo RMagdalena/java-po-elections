@@ -1,6 +1,7 @@
 package wybory;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class DzialaniaWKampanii {
 
@@ -29,8 +30,13 @@ public class DzialaniaWKampanii {
     }
 
     public void wykonaj(Okreg okreg) {
-        for (Wyborca wyborca : okreg.getListaWyborcow()) {
-            wyborca.zmienWagi(opis);
+        if (okreg != null) {
+            LinkedList<Wyborca> listaWyborcow = okreg.getListaWyborcow();
+            if (listaWyborcow != null) {
+                for (Wyborca wyborca : listaWyborcow) {
+                    wyborca.zmienWagi(opis);
+                }
+            }
         }
     }
 }

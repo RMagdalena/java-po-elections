@@ -1,7 +1,5 @@
 package wybory;
 
-import java.util.Random;
-
 public class Main {
 
     public void wypiszWynik() {
@@ -16,16 +14,14 @@ public class Main {
         Bajtocja bajtocja = new Bajtocja();
 
         metoda = new MetodaDHondta();
-        bajtocja.przeprowadzWybory(okregi, partie, cechy, dzialaniaWKampanii, metoda);
-        bajtocja.toString();
+        bajtocja.przeprowadzWybory(okregi, partie, dzialaniaWKampanii, metoda);
 
         metoda = new MetodaSaintLague();
-        bajtocja.przeprowadzWybory(okregi, partie, cechy, dzialaniaWKampanii, metoda);
-        bajtocja.toString();
+        bajtocja.przeprowadzWybory(okregi, partie, dzialaniaWKampanii, metoda);
 
         metoda = new MetodaHareaNiemeyera();
-        bajtocja.przeprowadzWybory(okregi, partie, cechy, dzialaniaWKampanii, metoda);
-        bajtocja.toString();
+        bajtocja.przeprowadzWybory(okregi, partie, dzialaniaWKampanii, metoda);
+
 
     }
 

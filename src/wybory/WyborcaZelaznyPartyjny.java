@@ -24,7 +24,7 @@ public class WyborcaZelaznyPartyjny extends Wyborca {
         int numerKandydata = numerKandydata(kandydaci);
         LinkedList<Kandydat> wybraniKandydaci = new LinkedList<>();
         for (Kandydat k : kandydaci.get(0).getKandydaciPartii()) {
-            if (k.getNumerNaLiscie() == numerKandydata) {
+            if (k.getNumerNaLiscie() == numerKandydata + 1) {
                 wybraniKandydaci.add(k);
             }
         }

@@ -4,24 +4,32 @@ import java.util.LinkedList;
 
 public class Partia {
     private final String nazwaPartii;
-    private final int budzet;
+    private int budzet;
     private final Strategia strategiaPartii;
 
-    private final LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciPartii;
+    private LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciPartii; // TODO nieuzywane
 
     private int uzyskaneGlosy;
     private int uzyskaneMandaty;
 
-    public Partia(String nazwaPartii, int budzet, Strategia strategiaPartii, LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciPartii) {
+    public Partia(String nazwaPartii, int budzet, Strategia strategiaPartii) {
         this.nazwaPartii = nazwaPartii;
         this.budzet = budzet;
         this.strategiaPartii = strategiaPartii;
-        this.wszyscyKandydaciPartii = wszyscyKandydaciPartii;
+        this.wszyscyKandydaciPartii = null;
         this.uzyskaneGlosy = 0;
         this.uzyskaneMandaty = 0;
     }
 
-    public void kampania(Okreg[] okregi, int liczbaCechKandydatow, DzialaniaWKampanii[] dzialaniaWKampanii) {
+    public String getNazwaPartii() {
+        return nazwaPartii;
+    }
+
+    public void setWszyscyKandydaciPartii(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciPartii) {
+        this.wszyscyKandydaciPartii = wszyscyKandydaciPartii;
+    }
+
+    public void kampania(Okreg[] okregi, DzialaniaWKampanii[] dzialaniaWKampanii) {
         boolean czyWykonanoDzialanie = true;
         while (czyWykonanoDzialanie) {
             czyWykonanoDzialanie = strategiaPartii.wykonajDzialanie(dzialaniaWKampanii, budzet, okregi, this);
@@ -36,4 +44,13 @@ public class Partia {
         this.uzyskaneMandaty += uzyskaneMandaty;
     }
 
+    public void zaplacZaDzialanie(int koszt) {
+        this.budzet -= koszt;
+    }
+
+    public StringBuilder wypiszMandaty() {
+        StringBuilder wynik = new StringBuilder();
+        wynik.append(nazwaPartii + " " + uzyskaneMandaty + "\n");
+        return wynik;
+    }
 }

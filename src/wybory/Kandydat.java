@@ -35,4 +35,13 @@ public class Kandydat {
         this.liczbaGlosow++;
     }
 
+    public String wypiszImieNazwisko() {
+        return imie + " " + nazwisko;
+    }
+
+    public StringBuilder wypisz() {
+        StringBuilder wynik = new StringBuilder();
+        wynik.append(imie + " " + nazwisko + " " + partia.getNazwaPartii() + " " + numerNaLiscie + " " + liczbaGlosow + "\n");
+        return wynik;
+    }
 }

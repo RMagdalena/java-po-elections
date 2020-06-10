@@ -18,9 +18,17 @@ public class KandydaciPartiiDanegoOkregu {
 
     public Okreg getOkreg() {
         return okreg;
-    }
+    } // TODO nieuzywane
 
     public Kandydat[] getKandydaciPartii() {
         return kandydaciPartii;
+    }
+
+    public StringBuilder wypisz() {
+        StringBuilder wynik = new StringBuilder();
+        for (Kandydat kandydat : kandydaciPartii) {
+            wynik.append(kandydat.wypisz());
+        }
+        return wynik;
     }
 }

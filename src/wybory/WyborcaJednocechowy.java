@@ -24,7 +24,7 @@ public class WyborcaJednocechowy extends Wyborca {
 
         for (KandydaciPartiiDanegoOkregu partia : wszyscyKandydaci) {
             for (Kandydat k : partia.getKandydaciPartii()) {
-                int wartoscCechy = k.getCechyKandydata()[cecha];
+                int wartoscCechy = k.getCechyKandydata()[cecha - 1];
                 if (wartoscCechy == najlepszaWartosc) {
                     listaWybranych.add(k);
                 }
@@ -39,15 +39,15 @@ public class WyborcaJednocechowy extends Wyborca {
         int maks = Integer.MIN_VALUE;
         for (KandydaciPartiiDanegoOkregu partia : wszyscyKandydaci) {
             for (Kandydat k : partia.getKandydaciPartii()) {
-                int wartoscCechy = k.getCechyKandydata()[cecha];
+                int wartoscCechy = k.getCechyKandydata()[cecha - 1];
                 if (maksymalizuje) {
                     if (wartoscCechy > maks) {
                         maks = wartoscCechy;
                     }
-                    else if (minimalizuje) {
-                        if (wartoscCechy < min) {
-                            min = wartoscCechy;
-                        }
+                }
+                else if (minimalizuje) {
+                    if (wartoscCechy < min) {
+                        min = wartoscCechy;
                     }
                 }
             }

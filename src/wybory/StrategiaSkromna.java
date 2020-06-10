@@ -6,10 +6,13 @@ public class StrategiaSkromna implements Strategia {
         Okreg okreg = znajdzNajmniejszyOkreg(okregi);
         if (okreg != null) {
             DzialaniaWKampanii dzialanie = najtanszeDzialanie(dzialania, okreg);
-
-            if (dzialanie != null && dzialanie.koszt(okreg.getLiczbaWyborcow()) <= budzet) {
-                dzialanie.wykonaj(okreg);
-                return true;
+            if (dzialanie != null) {
+                int koszt = dzialanie.koszt(okreg.getLiczbaWyborcow());
+                if (koszt <= budzet) {
+                    dzialanie.wykonaj(okreg);
+                    partiaZlecajaca.zaplacZaDzialanie(koszt);
+                    return true;
+                }
             }
         }
         return false;
@@ -38,9 +41,9 @@ public class StrategiaSkromna implements Strategia {
             if (okreg.okregScalony != null) {
                 aktualnyOkreg = okreg.okregScalony;
             }
-            if (okreg.getLiczbaWyborcow() < najmniej) {
-                wynik = okreg;
-                najmniej = okreg.getLiczbaWyborcow();
+            if (aktualnyOkreg.getLiczbaWyborcow() < najmniej) {
+                wynik = aktualnyOkreg;
+                najmniej = aktualnyOkreg.getLiczbaWyborcow();
             }
 
         }

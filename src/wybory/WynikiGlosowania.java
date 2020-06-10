@@ -18,4 +18,14 @@ public class WynikiGlosowania {
     public int[] getGlosyOddaneNaPoszczegolnePartie() {
         return glosyOddaneNaPoszczegolnePartie;
     }
+
+//    public StringBuilder wypisz() {
+//        StringBuilder wynik = new StringBuilder();
+//        for (int i = 0; i < partie.length; i++) {
+//            if (partie[i] != null) {
+//                wynik.append("___" + partie[i].getNazwaPartii() + " " + glosyOddaneNaPoszczegolnePartie[i] + '\n');
+//            }
+//        }
+//        return wynik;
+//    }
 }
