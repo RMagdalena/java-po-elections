@@ -77,8 +77,6 @@ public class Okreg {
 
     public void scalZOkregiem(Okreg okreg2) {
 
-        int nowyNumer = this.numer;
-
         LinkedList<Wyborca> nowaListaWyborcow = new LinkedList<>();
         nowaListaWyborcow.addAll(this.listaWyborcow);
         nowaListaWyborcow.addAll(okreg2.listaWyborcow);
@@ -87,9 +85,7 @@ public class Okreg {
         nowiWszyscyKandydaciOkregu.addAll(this.wszyscyKandydaciOkregu);
         nowiWszyscyKandydaciOkregu.addAll(okreg2.wszyscyKandydaciOkregu);
 
-        OkregScalony okregScalony = new OkregScalony(nowyNumer, nowaListaWyborcow, nowiWszyscyKandydaciOkregu, this, okreg2);
-
-        this.okregScalony = okregScalony;
+        this.okregScalony = new OkregScalony(this.numer, nowaListaWyborcow, nowiWszyscyKandydaciOkregu, this, okreg2);
         okreg2.setOkregScalony(this.okregScalony);
     }
 

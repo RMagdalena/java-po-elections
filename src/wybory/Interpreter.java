@@ -31,7 +31,7 @@ public class Interpreter {
         stworzPartie();
         wczytajLiczebnosciOkregow();
         wczytajKandydatowIPrzypiszIchDoOkregow();
-        wczytyajWyborcow();
+        wczytajWyborcow();
         scalOkregi();
         wczytajDzialania();
     }
@@ -81,14 +81,11 @@ public class Interpreter {
     }
 
     public void wczytajKandydatowIPrzypiszIchDoOkregow() {
-
         for (Okreg okreg : tablicaOkregow) {
             LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaciOkregu = new LinkedList<>();
-
-            Kandydat[] kandydaciOkregu = new Kandydat[okreg.getLiczbaMandatow()];
             for (Partia partia : tablicaPartii) {
-
-                for (int i = 0; i < kandydaciOkregu.length; i++) {
+                Kandydat[] kandydaciOkregu = new Kandydat[okreg.getLiczbaMandatow()];
+                for (int i = 0; i < okreg.getLiczbaMandatow(); i++) {
                     String opisKandydata = s.nextLine();
                     String imie = opisKandydata.split(" ")[0];
                     String nazwisko = opisKandydata.split(" ")[1];
@@ -103,14 +100,14 @@ public class Interpreter {
                     Kandydat kandydat = new Kandydat(imie, nazwisko, partiaKandydata, pozycjaNaLiscie, tablicaCechKandydata);
                     kandydaciOkregu[i] = kandydat;
                 }
-                KandydaciPartiiDanegoOkregu kandydaciPartiiDanegoOkregu = new KandydaciPartiiDanegoOkregu(partia, okreg, kandydaciOkregu);
+                KandydaciPartiiDanegoOkregu kandydaciPartiiDanegoOkregu = new KandydaciPartiiDanegoOkregu(partia, kandydaciOkregu);
                 wszyscyKandydaciOkregu.add(kandydaciPartiiDanegoOkregu);
             }
             okreg.setWszyscyKandydaciOkregu(wszyscyKandydaciOkregu);
         }
     }
 
-    public void wczytyajWyborcow() {
+    public void wczytajWyborcow() {
         int numerOstatnioDodanegoOkregu = 1;
         LinkedList<Wyborca> listaWyborcow = new LinkedList<>();
 

@@ -14,24 +14,37 @@ public class WyborcaZelaznyPartyjny extends Wyborca {
 
     @Override
     public void oddajGlos(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
-
         super.oddajGlos(WybieraZPartii.wybierzKandydatowDanejPartii(wszyscyKandydaci, wybranaPartia));
     }
 
     @Override
     protected LinkedList<Kandydat> stworzListeWybranych(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
-        LinkedList<KandydaciPartiiDanegoOkregu> kandydaci = WybieraZPartii.wybierzKandydatowDanejPartii(wszyscyKandydaci, wybranaPartia);
-        int numerKandydata = numerKandydata(kandydaci);
-        LinkedList<Kandydat> wybraniKandydaci = new LinkedList<>();
-        for (Kandydat k : kandydaci.get(0).getKandydaciPartii()) {
-            if (k.getNumerNaLiscie() == numerKandydata + 1) {
-                wybraniKandydaci.add(k);
+        LinkedList<KandydaciPartiiDanegoOkregu> listyKandydatow = WybieraZPartii.wybierzKandydatowDanejPartii(wszyscyKandydaci, wybranaPartia);
+
+        int wylosowanyIndeks = indeksKandydata(listyKandydatow);
+
+        if (wylosowanyIndeks < okregWyborczy.getLiczbaMandatow()) {
+            Kandydat[] kandydaci = listyKandydatow.get(0).getKandydaciPartii();
+            LinkedList<Kandydat> wybraniKandydaci = new LinkedList<>();
+            for (Kandydat k : kandydaci) {
+                if (k.getNumerNaLiscie() == wylosowanyIndeks + 1) {
+                    wybraniKandydaci.add(k);
+                    break;
+                }
+            }
+            return wybraniKandydaci;
+        }
+        else {
+            if (okregWyborczy.getOkregScalony().getOkreg1().getNumer() == okregWyborczy.getNumer()) {
+                return stworzListeWybranych(okregWyborczy.getOkregScalony().getOkreg2().getWszyscyKandydaciOkregu());
+            }
+            else {
+                return stworzListeWybranych(okregWyborczy.getOkregScalony().getOkreg1().getWszyscyKandydaciOkregu());
             }
         }
-        return wybraniKandydaci;
     }
 
-    protected int numerKandydata(LinkedList<KandydaciPartiiDanegoOkregu> kandydaciPartii) {
+    protected int indeksKandydata(LinkedList<KandydaciPartiiDanegoOkregu> kandydaciPartii) {
         return losujNumerKandydata(kandydaciPartii.get(0).getKandydaciPartii().length);
     }
 }

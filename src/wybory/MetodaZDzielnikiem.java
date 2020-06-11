@@ -49,7 +49,7 @@ abstract public class MetodaZDzielnikiem implements Metoda {
             if (liczbaGlosowPrzezDzielnik > maksymalnaWartosc) {
                 maksymalnaWartosc = liczbaGlosowPrzezDzielnik;
                 numerPartii = i;
-                wybranePartie.clear();
+                wybranePartie = new LinkedList<>();
                 wybranePartie.add(numerPartii);
             }
             else if (liczbaGlosowPrzezDzielnik == maksymalnaWartosc) {
@@ -57,7 +57,6 @@ abstract public class MetodaZDzielnikiem implements Metoda {
             }
         }
         int wynik = losujNumerPartii(wybranePartie);
-        wybranePartie.clear();
         return wynik;
     }
 

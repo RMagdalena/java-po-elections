@@ -20,7 +20,7 @@ public class WyborcaZelaznyPartyjnyKandydata extends WyborcaZelaznyPartyjny {
     }
 
     @Override
-    protected int numerKandydata(LinkedList<KandydaciPartiiDanegoOkregu> kandydaciPartii) {
+    protected int indeksKandydata(LinkedList<KandydaciPartiiDanegoOkregu> kandydaciPartii) {
         return numerKandydata - 1;
     }
 }

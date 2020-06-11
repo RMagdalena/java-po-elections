@@ -7,7 +7,7 @@ public abstract class Wyborca {
     protected final String imie;
     protected final String nazwisko;
     protected final Okreg okregWyborczy;
-    protected Okreg scalonyOkreg;
+    protected Okreg scalonyZOkregiem;
 
     protected Kandydat kandydatNaKtoregoGlosuje;
 
@@ -15,7 +15,7 @@ public abstract class Wyborca {
         this.imie = imie;
         this.nazwisko = nazwisko;
         this.okregWyborczy = okregWyborczy;
-        this.scalonyOkreg = okregWyborczy.getOkregScalony();
+        this.scalonyZOkregiem = okregWyborczy.getOkregScalony();
     }
 
     public int[] getWagiCech() {
@@ -28,7 +28,6 @@ public abstract class Wyborca {
 
     public void oddajGlos(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
         LinkedList<Kandydat> listaKandydatowWybranych = stworzListeWybranych(wszyscyKandydaci);
-
         if (listaKandydatowWybranych.size() > 0) {
             int numer = losujNumerKandydata(listaKandydatowWybranych.size());
             kandydatNaKtoregoGlosuje = listaKandydatowWybranych.get(numer);

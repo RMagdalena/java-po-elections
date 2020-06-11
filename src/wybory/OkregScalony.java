@@ -17,6 +17,14 @@ public class OkregScalony extends Okreg {
         this.liczbaMandatow = liczbaWyborcow / 10;
     }
 
+    public Okreg getOkreg1() {
+        return okreg1;
+    }
+
+    public Okreg getOkreg2() {
+        return okreg2;
+    }
+
     @Override
     public StringBuilder wypisz(Partia[] partie) {
         StringBuilder wynik = new StringBuilder();

@@ -49,7 +49,7 @@ public class MetodaHareaNiemeyera implements Metoda {
                 if (poPrzecinku.get(i) > najwiekszaCzescUlamkowa) {
                     najwiekszaCzescUlamkowa = poPrzecinku.get(i);
                     numerPartii = i;
-                    wybranePartie.clear();
+                    wybranePartie = new LinkedList<>();
                     wybranePartie.add(numerPartii);
                 }
                 else if (poPrzecinku.get(i) == najwiekszaCzescUlamkowa) {
@@ -57,7 +57,6 @@ public class MetodaHareaNiemeyera implements Metoda {
                 }
             }
             numerPartii = losujNumerPartii(wybranePartie);
-            wybranePartie.clear();
             poPrzecinku.set(numerPartii, (float) 0);
             wynik[numerPartii]++;
             rozdzieloneMandaty++;

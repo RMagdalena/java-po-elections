@@ -1,0 +1,5915 @@
+10 2 5 7
+3 (1,2) (3,4) (7,8)
+PartiaA PartiaB 
+957780 1023348 
+R W 
+400 660 330 620 600 220 790 490 200 610 
+Kazimierz R 1 PartiaA 1 -23 -95 51 39 -56 24 72
+Justyna F 1 PartiaA 2 41 -13 76 -82 -21 8 92
+Kazimierz A 1 PartiaA 3 -98 -73 -75 -70 -67 -89 68
+Michal U 1 PartiaA 4 -68 -31 -49 75 -52 80 8
+Zofia W 1 PartiaA 5 -50 -58 2 -83 42 -65 27
+Konrad A 1 PartiaA 6 -94 11 58 -27 86 25 -50
+Krzysztof D 1 PartiaA 7 73 62 -20 -15 -18 -78 -11
+Jan N 1 PartiaA 8 27 -92 12 91 -83 -29 -41
+Konrad E 1 PartiaA 9 45 33 -77 23 -44 83 36
+Marta N 1 PartiaA 10 -73 41 -49 52 -42 -27 -34
+Dorota N 1 PartiaA 11 -42 12 58 30 -75 -70 11
+Filip N 1 PartiaA 12 -67 85 -85 -52 -88 74 96
+Grzegorz F 1 PartiaA 13 -83 100 -74 19 30 -35 48
+Janusz H 1 PartiaA 14 97 -38 20 -96 30 47 -68
+Joanna S 1 PartiaA 15 75 71 -50 65 -82 94 71
+Maria J 1 PartiaA 16 -70 11 99 -64 2 -19 -42
+Elzbieta A 1 PartiaA 17 21 -77 76 -53 -58 -70 56
+Dawid R 1 PartiaA 18 -97 -8 -62 30 84 -97 28
+Elzbieta S 1 PartiaA 19 89 -28 -60 100 -78 -89 -84
+Malgorzata N 1 PartiaA 20 4 -90 -58 -29 87 65 -7
+Filip G 1 PartiaA 21 -36 -17 -36 -64 34 -89 51
+Krzysztof U 1 PartiaA 22 76 6 63 -75 68 5 14
+Marta E 1 PartiaA 23 -85 -14 66 -2 -51 0 77
+Konrad Z 1 PartiaA 24 69 4 55 94 -88 30 -14
+Maria U 1 PartiaA 25 -25 -22 9 -29 -76 -19 -31
+Dorota H 1 PartiaA 26 92 68 -90 -70 44 -2 72
+Pawel C 1 PartiaA 27 -36 -92 30 -22 99 -30 67
+Justyna P 1 PartiaA 28 20 -20 70 -67 -97 -91 -81
+Janusz M 1 PartiaA 29 -36 -3 26 -68 -84 0 57
+Ewa F 1 PartiaA 30 17 21 -2 3 -28 -65 -64
+Ewa K 1 PartiaA 31 3 -29 -66 63 -52 -7 -95
+Elzbieta B 1 PartiaA 32 -35 -26 70 77 -13 -31 71
+Marta N 1 PartiaA 33 -30 33 88 -22 -42 -12 12
+Agnieszka K 1 PartiaA 34 60 53 28 -70 44 -13 -49
+Konrad H 1 PartiaA 35 10 -94 29 -60 20 -32 61
+Piotr N 1 PartiaA 36 -99 -7 -20 -35 9 7 -70
+Filip I 1 PartiaA 37 -86 -99 6 -35 -14 26 58
+Janusz L 1 PartiaA 38 51 -85 0 63 6 -7 93
+Janusz U 1 PartiaA 39 -46 57 -57 71 -51 -75 17
+Agnieszka Z 1 PartiaA 40 -98 49 -52 -66 36 -36 16
+Malgorzata O 1 PartiaB 1 -1 11 42 -31 -84 -67 25
+Malgorzata P 1 PartiaB 2 -23 11 12 1 -6 -77 68
+Elzbieta H 1 PartiaB 3 48 63 -37 -80 -8 9 16
+Dawid J 1 PartiaB 4 8 41 85 -52 87 75 -64
+Dawid I 1 PartiaB 5 -49 -72 -78 2 -63 99 -83
+Kazimierz W 1 PartiaB 6 -91 32 10 -95 -15 -47 96
+Kazimierz N 1 PartiaB 7 -68 79 75 16 12 67 86
+Malgorzata A 1 PartiaB 8 -100 18 -18 -52 79 16 -93
+Piotr D 1 PartiaB 9 -52 44 98 25 68 -87 -41
+Anna L 1 PartiaB 10 -18 -73 18 61 -82 93 43
+Ewa M 1 PartiaB 11 95 -77 -92 98 26 -16 -85
+Filip R 1 PartiaB 12 26 -87 -20 -8 41 -26 -54
+Elzbieta S 1 PartiaB 13 -5 -83 44 -71 -37 50 -59
+Malgorzata E 1 PartiaB 14 -87 -36 -79 -73 72 87 91
+Anna K 1 PartiaB 15 -77 77 -65 37 77 -55 -95
+Krzysztof A 1 PartiaB 16 70 45 98 -70 0 13 51
+Anna I 1 PartiaB 17 13 54 -24 93 -80 70 77
+Anna U 1 PartiaB 18 -35 -89 87 14 5 42 83
+Malgorzata E 1 PartiaB 19 -32 27 3 -66 70 95 96
+Maria A 1 PartiaB 20 13 67 47 66 -35 14 67
+Anna P 1 PartiaB 21 36 -11 -45 26 33 68 46
+Marta A 1 PartiaB 22 -90 -34 -48 3 -46 -26 64
+Alina F 1 PartiaB 23 -76 -38 -91 89 -43 -34 -61
+Joanna A 1 PartiaB 24 -25 -88 26 92 -21 33 53
+Malgorzata O 1 PartiaB 25 -26 -95 -16 -67 48 -51 2
+Konrad U 1 PartiaB 26 18 8 -70 -26 -90 81 -43
+Grzegorz E 1 PartiaB 27 44 -59 72 50 -80 -64 -16
+Michal K 1 PartiaB 28 -49 -57 50 -79 -14 -22 -55
+Kazimierz J 1 PartiaB 29 -65 48 -52 -98 53 72 -99
+Janusz P 1 PartiaB 30 78 -39 -81 -57 -47 -26 -16
+Jacek L 1 PartiaB 31 25 80 -67 -8 64 33 70
+Joanna M 1 PartiaB 32 -81 -67 -6 12 -23 28 -84
+Alina I 1 PartiaB 33 50 31 94 -58 29 -13 98
+Dawid P 1 PartiaB 34 -25 28 -87 -54 -69 -92 62
+Pawel P 1 PartiaB 35 53 -7 80 -98 -92 35 -17
+Ewa C 1 PartiaB 36 -55 40 87 11 23 57 49
+Konrad Z 1 PartiaB 37 76 78 6 35 63 -54 -46
+Konrad R 1 PartiaB 38 -99 -81 9 31 -79 96 43
+Marta K 1 PartiaB 39 -99 -15 11 -41 -75 -29 -67
+Konrad A 1 PartiaB 40 -46 -31 -1 -82 -98 -82 -82
+Janusz H 2 PartiaA 1 98 82 -14 91 -82 -31 10
+Filip J 2 PartiaA 2 6 73 -86 -7 -45 -86 -88
+Zofia N 2 PartiaA 3 79 51 -65 -56 16 56 -55
+Filip B 2 PartiaA 4 12 -35 -35 0 28 99 93
+Marta H 2 PartiaA 5 15 -79 34 -11 87 36 -17
+Alina T 2 PartiaA 6 -44 39 93 -72 -74 -33 -33
+Anna R 2 PartiaA 7 -50 15 83 -29 -31 81 -46
+Dorota H 2 PartiaA 8 64 -13 45 -69 -4 77 55
+Agnieszka R 2 PartiaA 9 24 -65 8 8 82 66 15
+Jacek Z 2 PartiaA 10 -98 -82 51 -48 6 -52 -78
+Jan N 2 PartiaA 11 89 -83 -76 44 -19 50 -38
+Janusz G 2 PartiaA 12 35 17 -75 -66 -31 -98 -52
+Kazimierz E 2 PartiaA 13 -49 55 93 96 7 -67 -71
+Krzysztof S 2 PartiaA 14 -41 15 -22 15 -98 10 4
+Elzbieta M 2 PartiaA 15 9 -30 -5 55 -76 24 55
+Michal Z 2 PartiaA 16 -19 -20 -39 -48 -44 90 -14
+Elzbieta U 2 PartiaA 17 -1 34 67 15 92 33 77
+Zofia R 2 PartiaA 18 73 -39 35 -80 -92 17 -55
+Dorota T 2 PartiaA 19 -94 18 -79 -28 -82 -43 -88
+Marta F 2 PartiaA 20 3 46 62 41 15 -48 6
+Anna L 2 PartiaA 21 87 -90 76 -79 -2 2 -21
+Dawid A 2 PartiaA 22 -63 66 85 84 -4 -29 9
+Elzbieta O 2 PartiaA 23 47 67 85 -94 36 37 -42
+Zofia H 2 PartiaA 24 -99 4 -97 94 -27 80 -29
+Konrad Z 2 PartiaA 25 -81 -72 -87 0 83 -34 99
+Anna Z 2 PartiaA 26 -7 -1 51 50 11 -14 3
+Jacek H 2 PartiaA 27 -46 10 -45 -60 -69 99 67
+Krzysztof S 2 PartiaA 28 -30 82 52 -59 91 9 -97
+Krzysztof Z 2 PartiaA 29 -91 -86 -21 70 7 100 -75
+Konrad A 2 PartiaA 30 -41 64 -79 -9 -13 31 -100
+Jacek B 2 PartiaA 31 -45 89 -70 34 -94 -20 45
+Joanna D 2 PartiaA 32 3 -24 54 38 43 -16 17
+Zofia J 2 PartiaA 33 -63 91 -49 -99 42 8 -89
+Elzbieta M 2 PartiaA 34 63 74 -31 -89 7 79 35
+Alina O 2 PartiaA 35 -68 -22 -29 -95 54 -23 -25
+Zofia C 2 PartiaA 36 94 -36 -29 -86 -93 100 92
+Grzegorz U 2 PartiaA 37 -91 42 -50 -22 -66 44 -38
+Alina E 2 PartiaA 38 86 85 73 25 88 -37 89
+Malgorzata H 2 PartiaA 39 -39 7 -70 60 -91 -51 -14
+Jacek K 2 PartiaA 40 3 -99 78 15 -32 11 -6
+Konrad N 2 PartiaA 41 -24 55 -20 89 21 85 76
+Marta W 2 PartiaA 42 -74 99 29 50 -98 -84 -88
+Janusz L 2 PartiaA 43 99 28 -88 92 87 -46 -82
+Krzysztof C 2 PartiaA 44 26 32 31 -94 -45 65 -66
+Piotr I 2 PartiaA 45 -75 41 -3 23 -5 -65 94
+Kazimierz E 2 PartiaA 46 -84 62 -51 38 49 -45 -17
+Kazimierz C 2 PartiaA 47 -83 79 -62 44 96 51 59
+Zofia Z 2 PartiaA 48 0 -55 -54 -69 71 -12 54
+Ewa B 2 PartiaA 49 -15 -94 17 -44 15 42 39
+Krzysztof B 2 PartiaA 50 -38 -18 21 22 52 79 -85
+Justyna J 2 PartiaA 51 -41 47 -17 -58 94 43 -14
+Joanna G 2 PartiaA 52 78 -55 24 45 -14 80 -55
+Maria F 2 PartiaA 53 -100 -70 -60 -36 -45 -67 -18
+Filip K 2 PartiaA 54 -89 57 -53 74 -57 -76 -81
+Pawel G 2 PartiaA 55 12 -79 76 -94 10 -27 -5
+Maria I 2 PartiaA 56 -48 97 -16 -57 -86 -38 62
+Justyna J 2 PartiaA 57 -36 19 0 12 -48 52 -33
+Janusz H 2 PartiaA 58 12 -93 -11 27 22 35 -56
+Elzbieta D 2 PartiaA 59 88 -31 -76 66 -73 41 -63
+Michal M 2 PartiaA 60 -45 -63 -6 15 -72 60 52
+Joanna O 2 PartiaA 61 69 47 -87 94 20 48 -54
+Zofia D 2 PartiaA 62 64 -55 95 76 17 -91 90
+Grzegorz O 2 PartiaA 63 -54 -70 -10 9 72 52 -15
+Piotr H 2 PartiaA 64 19 22 -38 -84 30 65 96
+Michal A 2 PartiaA 65 -53 -56 82 7 93 32 -76
+Kazimierz M 2 PartiaA 66 7 -99 25 28 5 -32 -24
+Agnieszka J 2 PartiaB 1 -74 67 -49 18 34 -59 29
+Anna K 2 PartiaB 2 90 -21 67 -50 -57 -2 -41
+Ewa E 2 PartiaB 3 12 23 -49 27 -89 61 76
+Grzegorz A 2 PartiaB 4 -29 88 -79 16 -34 -77 -15
+Pawel M 2 PartiaB 5 27 -93 -91 23 11 54 49
+Piotr Z 2 PartiaB 6 12 -87 -97 69 -15 -90 -99
+Anna L 2 PartiaB 7 -18 4 -85 73 -19 95 -39
+Krzysztof B 2 PartiaB 8 -56 69 53 44 14 -63 -69
+Grzegorz L 2 PartiaB 9 1 23 99 -2 80 69 7
+Kazimierz B 2 PartiaB 10 85 29 -55 -7 -53 -84 -81
+Agnieszka B 2 PartiaB 11 -62 -14 -69 56 -94 0 -50
+Kazimierz K 2 PartiaB 12 -40 -37 24 71 -30 30 50
+Anna U 2 PartiaB 13 -35 -87 -34 28 53 -35 -99
+Alina S 2 PartiaB 14 -92 -83 29 33 11 -24 -33
+Grzegorz I 2 PartiaB 15 92 -100 -15 -6 72 -40 88
+Alina H 2 PartiaB 16 78 79 69 53 74 -92 -80
+Maria C 2 PartiaB 17 0 -18 85 -28 67 0 19
+Pawel H 2 PartiaB 18 -13 52 -18 0 -79 -10 -39
+Jan N 2 PartiaB 19 -16 -81 16 90 9 -68 95
+Zofia T 2 PartiaB 20 99 -48 95 92 97 68 75
+Grzegorz T 2 PartiaB 21 -53 67 -21 4 -93 -13 -71
+Filip E 2 PartiaB 22 -75 58 37 -56 83 -76 31
+Jacek D 2 PartiaB 23 50 17 51 -51 2 6 -52
+Konrad F 2 PartiaB 24 -55 -77 96 -82 -35 -70 -5
+Joanna E 2 PartiaB 25 26 96 -90 29 78 -71 -94
+Dawid F 2 PartiaB 26 -89 35 7 -19 67 34 -24
+Justyna T 2 PartiaB 27 95 68 22 43 -78 84 -30
+Elzbieta H 2 PartiaB 28 32 -2 -48 81 86 -86 -76
+Dorota G 2 PartiaB 29 -16 -52 -16 2 -61 98 5
+Elzbieta I 2 PartiaB 30 -14 23 56 39 -5 34 33
+Alina N 2 PartiaB 31 -19 13 37 100 -56 -96 95
+Pawel P 2 PartiaB 32 -67 -82 31 30 -82 23 40
+Elzbieta W 2 PartiaB 33 51 99 -13 -81 -26 -49 -71
+Joanna K 2 PartiaB 34 11 -1 -49 -6 -69 -55 27
+Ewa I 2 PartiaB 35 68 -58 -81 89 87 -39 72
+Filip S 2 PartiaB 36 -86 16 -81 -62 79 10 39
+Krzysztof O 2 PartiaB 37 25 -76 18 45 50 13 23
+Filip C 2 PartiaB 38 -44 79 36 -82 30 20 -59
+Alina M 2 PartiaB 39 53 -79 -99 42 84 -84 -55
+Dawid B 2 PartiaB 40 -30 0 -61 64 0 -72 -22
+Zofia J 2 PartiaB 41 11 1 -52 6 28 -14 100
+Maria S 2 PartiaB 42 -32 89 -43 49 86 51 -49
+Agnieszka S 2 PartiaB 43 66 44 44 49 -32 -87 -19
+Maria M 2 PartiaB 44 40 -69 -100 15 -28 -38 83
+Marta C 2 PartiaB 45 -9 31 -34 46 24 12 14
+Kazimierz C 2 PartiaB 46 81 -24 -63 5 -41 -51 38
+Dorota H 2 PartiaB 47 15 -19 -51 -1 63 -91 46
+Anna E 2 PartiaB 48 38 43 -59 -100 51 97 66
+Konrad C 2 PartiaB 49 -100 79 -84 -84 -31 43 -75
+Alina K 2 PartiaB 50 75 -74 -40 -20 61 -58 -80
+Ewa C 2 PartiaB 51 6 -13 -25 75 -70 42 69
+Piotr J 2 PartiaB 52 84 30 -50 -69 43 25 -55
+Piotr U 2 PartiaB 53 41 -96 6 51 85 76 -8
+Michal I 2 PartiaB 54 -1 -53 84 61 69 -89 64
+Jacek U 2 PartiaB 55 -72 -1 -12 15 -42 1 -73
+Malgorzata U 2 PartiaB 56 69 23 17 -36 82 67 100
+Zofia N 2 PartiaB 57 43 4 -43 69 66 -31 98
+Jan D 2 PartiaB 58 -60 7 24 -70 32 40 56
+Filip N 2 PartiaB 59 27 -38 -67 -88 -9 -51 -89
+Anna Z 2 PartiaB 60 72 58 -76 -88 -7 -87 -66
+Alina K 2 PartiaB 61 72 44 65 35 0 1 35
+Malgorzata N 2 PartiaB 62 -34 54 89 -38 60 95 73
+Michal C 2 PartiaB 63 -82 -64 55 -32 -2 -65 4
+Jacek R 2 PartiaB 64 59 98 92 -43 -50 51 -37
+Michal G 2 PartiaB 65 -12 -30 -21 44 79 -27 81
+Dawid O 2 PartiaB 66 45 35 66 25 73 69 92
+Zofia A 3 PartiaA 1 -81 -8 73 47 23 3 -9
+Marta A 3 PartiaA 2 94 39 -83 21 29 -10 -3
+Maria H 3 PartiaA 3 80 89 83 -84 -70 2 -59
+Dawid L 3 PartiaA 4 37 -69 27 23 -71 82 41
+Dawid H 3 PartiaA 5 -19 -59 48 -87 -45 81 -92
+Zofia O 3 PartiaA 6 13 -100 -70 1 35 75 81
+Dawid M 3 PartiaA 7 -61 30 83 79 -7 -31 -67
+Alina T 3 PartiaA 8 8 84 -58 44 12 -61 100
+Jan I 3 PartiaA 9 -78 39 53 1 60 -65 -70
+Marta M 3 PartiaA 10 -91 -87 -17 30 -67 -71 -6
+Malgorzata G 3 PartiaA 11 45 -79 39 -4 58 -99 83
+Marta D 3 PartiaA 12 -14 -37 95 47 -38 79 -94
+Krzysztof M 3 PartiaA 13 1 -30 51 5 -37 -92 42
+Alina N 3 PartiaA 14 34 -35 19 -92 -94 52 -88
+Malgorzata P 3 PartiaA 15 -13 83 -8 -93 76 -4 30
+Alina R 3 PartiaA 16 -69 21 99 -17 31 -14 99
+Jacek I 3 PartiaA 17 75 -85 58 86 33 -37 -20
+Grzegorz L 3 PartiaA 18 53 11 43 21 44 -89 26
+Agnieszka B 3 PartiaA 19 -21 -53 72 -30 -16 -60 -24
+Marta W 3 PartiaA 20 97 76 11 85 1 50 -8
+Ewa S 3 PartiaA 21 96 38 -62 -62 74 21 60
+Justyna W 3 PartiaA 22 17 56 -56 -49 96 -92 25
+Agnieszka M 3 PartiaA 23 -1 -47 64 -39 20 -77 -54
+Maria T 3 PartiaA 24 27 77 -71 6 60 -88 -56
+Krzysztof L 3 PartiaA 25 41 69 83 93 -23 81 92
+Anna A 3 PartiaA 26 5 56 -94 77 7 7 -52
+Agnieszka C 3 PartiaA 27 80 87 23 56 20 -64 88
+Konrad J 3 PartiaA 28 9 -4 13 14 45 -89 -35
+Dawid N 3 PartiaA 29 -33 -9 -56 21 -85 38 -75
+Grzegorz D 3 PartiaA 30 35 -100 8 93 -94 -50 -76
+Jacek L 3 PartiaA 31 25 -17 61 -34 78 3 0
+Michal G 3 PartiaA 32 69 75 51 -90 -83 -9 -41
+Jan I 3 PartiaA 33 53 0 -78 -99 -27 44 14
+Alina O 3 PartiaB 1 -96 71 26 -59 14 87 84
+Malgorzata D 3 PartiaB 2 66 -45 6 5 -92 -35 -98
+Krzysztof C 3 PartiaB 3 -72 49 83 -1 91 -43 66
+Dorota K 3 PartiaB 4 -46 74 -33 3 -87 -22 -8
+Grzegorz U 3 PartiaB 5 3 83 -79 66 -12 -28 12
+Filip J 3 PartiaB 6 15 -31 15 -84 -20 60 -53
+Konrad W 3 PartiaB 7 71 -95 -95 -13 -24 -59 -67
+Jacek T 3 PartiaB 8 -65 -8 -17 88 -54 28 -31
+Krzysztof P 3 PartiaB 9 90 -68 91 -84 -91 42 -8
+Marta U 3 PartiaB 10 25 -90 72 95 -17 71 60
+Malgorzata O 3 PartiaB 11 58 20 -86 -71 32 -58 -83
+Michal C 3 PartiaB 12 -17 -54 -27 36 -3 -61 40
+Elzbieta H 3 PartiaB 13 -79 -80 -64 -54 22 2 -5
+Zofia U 3 PartiaB 14 -74 66 -90 60 -56 35 -45
+Maria M 3 PartiaB 15 81 47 -59 -68 68 -77 38
+Janusz I 3 PartiaB 16 -26 1 9 81 45 -95 -64
+Jacek J 3 PartiaB 17 -71 4 -83 -62 -100 -69 -81
+Michal C 3 PartiaB 18 54 53 -3 -36 2 -35 -85
+Pawel F 3 PartiaB 19 -48 -75 -93 -78 -37 81 41
+Michal T 3 PartiaB 20 -48 -60 88 -79 -84 -90 16
+Konrad K 3 PartiaB 21 -50 -91 8 62 75 -2 -33
+Zofia J 3 PartiaB 22 -73 -97 59 -9 -54 -35 87
+Kazimierz S 3 PartiaB 23 -18 -92 34 -74 -42 28 55
+Michal M 3 PartiaB 24 88 -27 100 40 -15 74 -93
+Maria S 3 PartiaB 25 -83 44 -78 41 99 -57 -96
+Agnieszka W 3 PartiaB 26 24 -82 -21 -44 91 -21 0
+Jan B 3 PartiaB 27 -33 38 -96 73 10 74 -25
+Maria D 3 PartiaB 28 -86 -58 90 -39 -96 0 100
+Dawid E 3 PartiaB 29 -25 -94 10 31 90 18 -16
+Maria L 3 PartiaB 30 -53 -22 -39 -86 -47 79 31
+Kazimierz A 3 PartiaB 31 -5 -47 82 -53 58 67 24
+Michal G 3 PartiaB 32 -39 -8 66 57 24 -71 -79
+Malgorzata A 3 PartiaB 33 -95 30 60 -55 -41 41 -95
+Malgorzata W 4 PartiaA 1 -93 30 5 -32 86 17 -90
+Filip B 4 PartiaA 2 91 55 74 -43 -3 -53 49
+Grzegorz H 4 PartiaA 3 44 45 -4 -4 89 73 24
+Alina A 4 PartiaA 4 -64 -29 -2 -89 -29 -18 -2
+Kazimierz T 4 PartiaA 5 55 -28 -64 32 79 29 14
+Maria B 4 PartiaA 6 -94 -85 97 -65 -50 -83 82
+Krzysztof F 4 PartiaA 7 -28 -21 -11 -60 -65 31 -36
+Dorota C 4 PartiaA 8 -37 -23 75 -93 -59 18 45
+Ewa G 4 PartiaA 9 -69 -17 91 100 80 -1 73
+Ewa W 4 PartiaA 10 77 93 -91 65 92 -54 52
+Jacek A 4 PartiaA 11 61 25 7 -19 67 25 -20
+Marta B 4 PartiaA 12 -64 -91 86 56 -43 -59 -60
+Michal G 4 PartiaA 13 3 -66 99 -7 39 -33 45
+Agnieszka F 4 PartiaA 14 76 -92 71 -59 -13 50 -99
+Elzbieta J 4 PartiaA 15 90 -14 50 36 43 -19 -76
+Grzegorz M 4 PartiaA 16 -27 -88 -29 -21 -20 -71 13
+Michal B 4 PartiaA 17 23 39 -72 43 7 -49 -99
+Joanna C 4 PartiaA 18 14 -92 63 -32 -35 56 -5
+Justyna O 4 PartiaA 19 95 -4 -98 -7 52 -46 85
+Malgorzata D 4 PartiaA 20 34 -27 -86 50 -75 86 18
+Justyna D 4 PartiaA 21 -22 54 -24 -100 -88 37 25
+Malgorzata W 4 PartiaA 22 -15 -7 92 -53 26 84 -100
+Dawid G 4 PartiaA 23 97 -9 73 -71 86 -33 27
+Jan B 4 PartiaA 24 17 23 9 29 -28 -73 17
+Michal Z 4 PartiaA 25 29 -1 79 -3 -47 -70 -59
+Pawel J 4 PartiaA 26 61 -88 -90 52 73 51 -2
+Filip C 4 PartiaA 27 75 42 42 33 -63 34 -23
+Krzysztof H 4 PartiaA 28 -87 -98 29 3 -30 62 -67
+Konrad A 4 PartiaA 29 -71 26 -95 21 80 -50 -92
+Marta G 4 PartiaA 30 45 -25 4 25 35 50 42
+Jan E 4 PartiaA 31 -88 13 74 26 -58 56 -2
+Filip L 4 PartiaA 32 11 -72 74 28 -17 45 18
+Marta P 4 PartiaA 33 36 24 -7 95 71 -83 95
+Pawel O 4 PartiaA 34 -31 22 31 -17 28 -59 45
+Alina D 4 PartiaA 35 81 24 34 -1 -3 94 -79
+Filip E 4 PartiaA 36 -41 45 62 -58 -77 66 -6
+Pawel N 4 PartiaA 37 -30 67 -81 -15 -72 53 73
+Marta T 4 PartiaA 38 -17 1 -57 -7 15 0 -94
+Justyna S 4 PartiaA 39 3 4 -20 65 -71 -9 20
+Zofia E 4 PartiaA 40 1 49 -66 85 83 14 -43
+Piotr N 4 PartiaA 41 22 -49 -25 5 -62 -8 9
+Kazimierz M 4 PartiaA 42 -41 20 -69 45 13 49 -55
+Jan N 4 PartiaA 43 62 66 -49 23 -22 59 -86
+Dorota I 4 PartiaA 44 -46 -13 5 -11 -13 -58 0
+Krzysztof B 4 PartiaA 45 -95 38 47 79 -58 2 49
+Elzbieta Z 4 PartiaA 46 -86 -91 5 -99 -63 -15 -19
+Ewa L 4 PartiaA 47 50 -80 20 -47 12 -74 53
+Piotr B 4 PartiaA 48 85 -64 -14 73 -37 34 86
+Krzysztof Z 4 PartiaA 49 -45 97 49 -21 -37 -73 12
+Zofia H 4 PartiaA 50 9 6 -91 12 -37 71 4
+Maria N 4 PartiaA 51 6 87 69 61 -59 -98 90
+Janusz Z 4 PartiaA 52 84 56 66 -31 -69 -37 50
+Alina J 4 PartiaA 53 -42 -65 -84 14 22 92 50
+Malgorzata B 4 PartiaA 54 -73 100 -55 -55 -87 -5 -45
+Krzysztof Z 4 PartiaA 55 -72 34 -99 99 96 -62 57
+Dawid E 4 PartiaA 56 -32 96 -43 -53 -100 95 -80
+Grzegorz A 4 PartiaA 57 54 -99 -42 -20 70 18 4
+Grzegorz P 4 PartiaA 58 -54 32 38 19 -86 68 -62
+Piotr T 4 PartiaA 59 86 18 78 -33 54 78 -78
+Jacek B 4 PartiaA 60 -75 -24 -76 89 33 -51 -27
+Grzegorz H 4 PartiaA 61 -49 8 -77 -51 52 -9 60
+Alina J 4 PartiaA 62 -99 -58 96 83 -52 -75 94
+Dawid K 4 PartiaB 1 -55 70 -39 7 -18 5 -95
+Konrad J 4 PartiaB 2 -14 -25 -59 77 93 22 21
+Jan J 4 PartiaB 3 -8 -68 -93 -18 -39 34 68
+Agnieszka U 4 PartiaB 4 -79 -29 91 67 -83 -31 -50
+Jacek M 4 PartiaB 5 45 -43 -25 -7 -2 58 55
+Grzegorz A 4 PartiaB 6 -32 -35 -36 91 25 50 -58
+Zofia M 4 PartiaB 7 76 -38 14 -7 -69 -71 -45
+Alina W 4 PartiaB 8 -5 4 53 -2 52 -46 58
+Michal W 4 PartiaB 9 -24 -45 -7 -32 -43 47 16
+Jacek A 4 PartiaB 10 70 -46 35 50 -23 73 -59
+Dorota H 4 PartiaB 11 84 -65 9 42 -74 16 -50
+Dawid K 4 PartiaB 12 -78 -49 -77 -40 -48 64 -75
+Justyna C 4 PartiaB 13 93 57 48 -43 -25 44 100
+Alina E 4 PartiaB 14 25 41 -58 75 54 -78 36
+Michal F 4 PartiaB 15 -98 -52 81 48 62 -40 13
+Dorota U 4 PartiaB 16 33 77 26 46 -87 -20 -92
+Ewa C 4 PartiaB 17 5 -97 -45 -15 -91 19 33
+Alina U 4 PartiaB 18 83 100 -24 -67 99 -89 12
+Filip N 4 PartiaB 19 -82 30 -39 -75 -40 26 -94
+Pawel F 4 PartiaB 20 -65 -45 -70 -64 -22 10 -35
+Marta G 4 PartiaB 21 -13 4 -53 -77 -13 -75 100
+Janusz E 4 PartiaB 22 -24 96 -87 -24 -64 -70 -40
+Michal D 4 PartiaB 23 -57 -70 65 85 93 -53 -83
+Elzbieta Z 4 PartiaB 24 98 17 5 -18 -50 -41 9
+Ewa Z 4 PartiaB 25 -58 -32 27 -47 31 -83 -16
+Joanna B 4 PartiaB 26 43 23 31 -69 -2 -64 -28
+Ewa D 4 PartiaB 27 -55 -52 -89 34 27 17 -35
+Dawid R 4 PartiaB 28 85 -48 24 63 55 76 -43
+Kazimierz I 4 PartiaB 29 4 -6 -66 3 -91 -62 -65
+Malgorzata C 4 PartiaB 30 81 -37 83 -21 -52 18 2
+Marta F 4 PartiaB 31 -41 54 5 12 87 72 45
+Dawid U 4 PartiaB 32 -55 46 72 -12 -71 -26 -8
+Grzegorz M 4 PartiaB 33 -91 90 59 17 -11 -4 95
+Alina S 4 PartiaB 34 -8 54 82 64 -53 35 29
+Agnieszka Z 4 PartiaB 35 -9 -6 14 -99 -57 -83 13
+Kazimierz O 4 PartiaB 36 38 -71 -31 -66 47 72 -51
+Janusz F 4 PartiaB 37 -44 91 13 -27 61 -45 41
+Maria G 4 PartiaB 38 -96 -55 81 79 48 23 -50
+Kazimierz I 4 PartiaB 39 80 46 -33 -17 -22 71 14
+Pawel M 4 PartiaB 40 32 -98 -19 -91 57 13 88
+Marta G 4 PartiaB 41 -40 85 -97 -83 91 -35 70
+Ewa J 4 PartiaB 42 69 59 -22 30 -96 96 53
+Malgorzata L 4 PartiaB 43 -98 8 89 -46 53 2 86
+Dorota T 4 PartiaB 44 2 -8 8 -94 -83 -75 81
+Agnieszka T 4 PartiaB 45 68 78 63 -36 62 -21 -12
+Michal T 4 PartiaB 46 51 -97 11 58 21 -26 -81
+Zofia I 4 PartiaB 47 -75 42 -25 -81 73 72 -27
+Filip G 4 PartiaB 48 -56 -95 -73 25 55 26 24
+Filip R 4 PartiaB 49 18 -99 -68 -50 10 15 12
+Filip H 4 PartiaB 50 -13 72 87 84 85 2 37
+Joanna Z 4 PartiaB 51 -97 -53 -100 69 53 -76 100
+Pawel U 4 PartiaB 52 13 -99 59 50 59 33 45
+Alina K 4 PartiaB 53 74 29 4 -61 54 -89 -82
+Joanna O 4 PartiaB 54 28 -72 -90 -20 77 -96 -63
+Jacek L 4 PartiaB 55 30 55 88 -83 74 71 42
+Anna L 4 PartiaB 56 -76 58 -1 -10 -41 37 1
+Jacek O 4 PartiaB 57 -33 -39 -98 -12 34 -29 -4
+Piotr D 4 PartiaB 58 -10 -89 -75 83 93 32 -69
+Piotr N 4 PartiaB 59 -97 100 75 40 -23 5 84
+Maria A 4 PartiaB 60 -87 -52 99 -50 -84 -65 73
+Anna T 4 PartiaB 61 -57 18 63 -46 -40 -20 84
+Filip F 4 PartiaB 62 -98 -46 29 79 61 13 93
+Maria C 5 PartiaA 1 -89 72 64 -93 54 29 96
+Joanna W 5 PartiaA 2 -87 -43 81 17 -84 47 72
+Grzegorz R 5 PartiaA 3 -58 2 12 86 63 17 46
+Michal M 5 PartiaA 4 -26 20 -64 -31 69 89 -40
+Marta I 5 PartiaA 5 79 -80 26 -6 7 -65 -100
+Agnieszka E 5 PartiaA 6 35 -38 94 -21 -20 -69 18
+Malgorzata O 5 PartiaA 7 71 -4 -22 38 -89 -77 5
+Jan S 5 PartiaA 8 -93 -48 89 43 75 97 -42
+Piotr E 5 PartiaA 9 -22 -3 -14 -21 -20 85 -2
+Grzegorz R 5 PartiaA 10 -95 -31 -25 68 13 47 -50
+Maria Z 5 PartiaA 11 13 61 -4 3 -100 82 -44
+Grzegorz G 5 PartiaA 12 -98 81 25 76 -76 84 73
+Dorota H 5 PartiaA 13 8 40 -27 86 80 10 22
+Marta U 5 PartiaA 14 -3 -21 -24 -80 41 -10 -53
+Ewa A 5 PartiaA 15 -16 -8 92 84 41 -28 -72
+Konrad T 5 PartiaA 16 -7 -81 -95 -6 -45 98 -68
+Konrad A 5 PartiaA 17 48 -98 -2 59 50 -86 96
+Piotr K 5 PartiaA 18 -32 -28 44 -39 49 -26 93
+Dawid U 5 PartiaA 19 43 66 -47 13 2 85 90
+Dawid L 5 PartiaA 20 -85 63 11 50 -97 -71 -94
+Alina F 5 PartiaA 21 -59 34 -75 89 -3 56 -1
+Anna C 5 PartiaA 22 -73 -92 -9 -46 98 -76 -34
+Anna P 5 PartiaA 23 53 66 98 -52 -78 49 18
+Alina T 5 PartiaA 24 -11 43 -23 27 -55 -32 79
+Agnieszka H 5 PartiaA 25 56 11 -57 20 -85 67 -52
+Alina W 5 PartiaA 26 -91 97 26 -1 -66 94 -7
+Janusz K 5 PartiaA 27 26 -37 -6 55 -78 37 -80
+Janusz N 5 PartiaA 28 -23 98 -25 24 5 -17 96
+Piotr A 5 PartiaA 29 34 26 12 28 -36 -75 56
+Jacek S 5 PartiaA 30 18 -44 -87 -18 -87 60 35
+Jacek Z 5 PartiaA 31 -31 62 -78 49 -70 -44 7
+Malgorzata Z 5 PartiaA 32 76 54 -85 7 -27 -62 17
+Elzbieta L 5 PartiaA 33 -40 -23 -62 49 -71 -56 90
+Malgorzata N 5 PartiaA 34 -48 84 -73 47 -6 -21 30
+Jacek I 5 PartiaA 35 85 -61 82 29 -26 -29 39
+Filip K 5 PartiaA 36 69 -76 29 42 55 -88 4
+Kazimierz C 5 PartiaA 37 -51 -37 42 53 83 1 -7
+Joanna J 5 PartiaA 38 38 -16 56 33 80 -79 -44
+Dorota T 5 PartiaA 39 79 -13 -96 5 86 -60 64
+Piotr A 5 PartiaA 40 -86 -52 -8 98 22 8 -39
+Zofia I 5 PartiaA 41 -13 91 -83 -66 21 32 -29
+Anna W 5 PartiaA 42 36 -24 -22 62 -18 -93 -86
+Konrad E 5 PartiaA 43 17 50 -85 -11 98 43 -6
+Agnieszka B 5 PartiaA 44 81 4 65 -48 -57 84 -48
+Ewa L 5 PartiaA 45 -42 51 -65 -66 -17 -47 -25
+Joanna S 5 PartiaA 46 14 88 77 84 30 -21 27
+Maria L 5 PartiaA 47 -31 -81 -89 31 42 33 7
+Jan W 5 PartiaA 48 19 89 17 96 -93 -2 -17
+Jan T 5 PartiaA 49 -36 -30 55 35 -51 40 -12
+Alina F 5 PartiaA 50 -37 -77 -98 -22 67 -33 -24
+Filip P 5 PartiaA 51 -75 55 47 48 65 70 -17
+Piotr W 5 PartiaA 52 -4 -38 98 24 -62 34 -91
+Pawel W 5 PartiaA 53 -93 19 48 5 -96 -14 9
+Piotr R 5 PartiaA 54 12 85 -8 -42 95 78 49
+Dawid P 5 PartiaA 55 65 91 -2 90 22 52 34
+Grzegorz O 5 PartiaA 56 -52 -47 -74 28 16 -42 -11
+Piotr W 5 PartiaA 57 -86 -47 -83 73 -69 55 80
+Marta P 5 PartiaA 58 -83 79 64 -29 58 -30 -32
+Anna P 5 PartiaA 59 -74 22 -30 49 -87 -55 45
+Malgorzata I 5 PartiaA 60 -4 -88 -64 -6 8 14 -86
+Filip C 5 PartiaB 1 0 43 -73 7 -3 88 18
+Janusz S 5 PartiaB 2 -41 -20 81 -67 22 -90 -98
+Konrad C 5 PartiaB 3 80 -71 29 -25 28 86 -20
+Jan J 5 PartiaB 4 93 95 65 -60 80 93 13
+Michal A 5 PartiaB 5 19 81 59 -34 -64 7 -81
+Piotr O 5 PartiaB 6 29 25 95 -47 35 8 -49
+Grzegorz O 5 PartiaB 7 82 -98 75 -33 -70 54 -99
+Anna B 5 PartiaB 8 84 -53 86 -11 -51 -58 -38
+Maria L 5 PartiaB 9 -88 47 43 -63 -56 17 -24
+Filip S 5 PartiaB 10 -62 38 -77 7 -92 11 -67
+Malgorzata J 5 PartiaB 11 9 -10 -63 44 68 88 -70
+Justyna F 5 PartiaB 12 -27 18 -2 69 67 90 39
+Jan C 5 PartiaB 13 -32 76 79 41 -6 27 -64
+Anna T 5 PartiaB 14 -90 32 -38 24 5 -95 -46
+Dorota U 5 PartiaB 15 -72 -30 82 22 -1 4 -20
+Joanna F 5 PartiaB 16 -97 28 -53 25 81 25 -96
+Joanna G 5 PartiaB 17 -52 33 -96 19 -31 -74 60
+Elzbieta E 5 PartiaB 18 88 59 -53 -18 26 25 75
+Joanna A 5 PartiaB 19 -24 -18 -83 -34 -94 -3 -92
+Alina G 5 PartiaB 20 -77 -23 -86 42 68 -61 -81
+Maria G 5 PartiaB 21 16 -27 60 -32 -41 -8 -59
+Malgorzata J 5 PartiaB 22 -18 -30 -49 -18 -41 39 59
+Michal M 5 PartiaB 23 -71 13 56 23 -48 -62 -65
+Agnieszka L 5 PartiaB 24 -11 -2 -58 -90 36 26 -69
+Maria H 5 PartiaB 25 26 -73 72 -17 36 -41 -34
+Filip M 5 PartiaB 26 83 -96 -35 -90 73 0 60
+Anna L 5 PartiaB 27 -100 61 -90 46 5 -38 77
+Elzbieta E 5 PartiaB 28 -34 100 11 15 -5 42 -71
+Konrad D 5 PartiaB 29 37 -26 22 85 -96 -47 -22
+Elzbieta J 5 PartiaB 30 -99 -87 83 32 36 56 31
+Justyna O 5 PartiaB 31 0 -48 11 -6 19 -11 -100
+Krzysztof C 5 PartiaB 32 -10 -99 -27 10 -51 -92 12
+Malgorzata N 5 PartiaB 33 -29 -26 65 -35 38 -65 -44
+Malgorzata R 5 PartiaB 34 44 78 -79 98 -73 -48 -13
+Joanna R 5 PartiaB 35 -1 90 -59 43 -10 15 49
+Pawel W 5 PartiaB 36 -45 11 43 -45 97 59 -48
+Agnieszka S 5 PartiaB 37 -78 4 -93 50 52 6 5
+Anna K 5 PartiaB 38 -5 92 51 74 -96 80 27
+Piotr K 5 PartiaB 39 -68 44 24 74 55 89 98
+Alina M 5 PartiaB 40 57 20 88 65 65 -31 -97
+Joanna F 5 PartiaB 41 -38 85 -35 27 79 16 27
+Malgorzata D 5 PartiaB 42 -100 -55 -75 61 -82 96 60
+Grzegorz K 5 PartiaB 43 -17 57 -49 27 -18 -1 -13
+Justyna W 5 PartiaB 44 50 -17 35 4 77 -23 -73
+Grzegorz B 5 PartiaB 45 -4 40 0 84 78 61 2
+Dorota Z 5 PartiaB 46 -66 -37 -30 75 22 56 4
+Ewa U 5 PartiaB 47 -40 20 -72 21 0 -69 5
+Konrad S 5 PartiaB 48 -26 29 55 -24 -49 -1 -40
+Joanna U 5 PartiaB 49 71 11 -29 -30 -70 -37 51
+Alina G 5 PartiaB 50 59 -31 -59 18 -11 7 71
+Joanna H 5 PartiaB 51 -97 82 44 58 -83 89 61
+Maria E 5 PartiaB 52 -2 -7 -84 94 20 57 -34
+Justyna M 5 PartiaB 53 -26 -52 -95 -75 72 -43 -51
+Pawel K 5 PartiaB 54 90 22 53 -58 37 -98 -22
+Joanna H 5 PartiaB 55 -67 14 -6 -78 48 -37 66
+Jan N 5 PartiaB 56 23 -2 -94 36 -47 75 23
+Justyna E 5 PartiaB 57 45 75 -65 73 72 -42 31
+Konrad N 5 PartiaB 58 -29 16 -86 -6 -72 97 -35
+Dawid U 5 PartiaB 59 -9 75 28 14 -6 55 41
+Kazimierz F 5 PartiaB 60 -47 -33 -89 2 34 -7 -62
+Joanna T 6 PartiaA 1 15 -93 74 61 -1 -7 6
+Maria L 6 PartiaA 2 -52 79 70 16 -34 -11 67
+Grzegorz H 6 PartiaA 3 -96 -32 -28 -9 10 -81 -15
+Elzbieta A 6 PartiaA 4 -49 67 -80 75 6 -71 -15
+Joanna H 6 PartiaA 5 68 74 41 10 5 -13 -93
+Zofia O 6 PartiaA 6 -91 89 -31 -92 -91 -85 14
+Piotr L 6 PartiaA 7 -48 -33 -35 -58 74 -5 -36
+Marta G 6 PartiaA 8 -84 -84 91 55 -47 81 -53
+Anna D 6 PartiaA 9 17 68 -72 10 99 92 90
+Kazimierz S 6 PartiaA 10 61 31 86 -32 17 20 -91
+Dorota G 6 PartiaA 11 10 34 -2 -70 8 -100 -67
+Justyna Z 6 PartiaA 12 89 -51 -67 -77 52 98 63
+Maria J 6 PartiaA 13 50 -81 86 -43 27 -88 -41
+Justyna E 6 PartiaA 14 29 37 0 31 -70 -77 -37
+Agnieszka I 6 PartiaA 15 32 -72 17 -13 72 -22 37
+Alina E 6 PartiaA 16 -6 1 75 5 63 33 -98
+Joanna H 6 PartiaA 17 26 -11 71 80 -4 -34 -53
+Jan C 6 PartiaA 18 62 79 34 -5 2 -28 -54
+Jacek A 6 PartiaA 19 70 85 -83 25 -92 -1 -86
+Justyna B 6 PartiaA 20 47 -79 35 78 0 30 69
+Agnieszka M 6 PartiaA 21 -17 -16 23 -77 59 81 -95
+Jan D 6 PartiaA 22 22 -34 -86 -76 -59 78 2
+Ewa N 6 PartiaB 1 -40 -46 -79 3 91 -51 -53
+Michal D 6 PartiaB 2 -79 31 -19 9 -25 78 4
+Dorota N 6 PartiaB 3 12 -61 9 59 60 16 16
+Justyna N 6 PartiaB 4 57 72 76 72 -98 29 -48
+Dawid P 6 PartiaB 5 -83 -6 -10 -20 84 94 -41
+Kazimierz P 6 PartiaB 6 -60 -86 73 -65 -92 -43 21
+Ewa B 6 PartiaB 7 73 48 12 61 14 -64 -41
+Dorota N 6 PartiaB 8 41 30 75 -71 -96 28 -59
+Ewa L 6 PartiaB 9 -18 -48 94 61 15 65 30
+Zofia I 6 PartiaB 10 91 42 -93 -37 -85 -59 -41
+Dorota U 6 PartiaB 11 50 53 78 -96 -94 -55 98
+Maria S 6 PartiaB 12 -52 -29 53 99 79 20 -85
+Ewa S 6 PartiaB 13 31 -22 -34 28 14 0 46
+Marta S 6 PartiaB 14 -68 -37 47 40 -47 -38 9
+Marta M 6 PartiaB 15 98 30 -28 -75 -10 51 -25
+Jacek Z 6 PartiaB 16 0 -92 92 -22 -53 -37 85
+Zofia S 6 PartiaB 17 -47 -94 -58 38 28 75 -43
+Konrad T 6 PartiaB 18 29 -12 -73 -45 -83 -49 -90
+Anna A 6 PartiaB 19 -10 -89 -57 40 15 -27 -61
+Zofia S 6 PartiaB 20 -31 -48 96 -99 -40 33 -34
+Malgorzata W 6 PartiaB 21 -59 23 -88 -54 26 -1 -47
+Konrad F 6 PartiaB 22 99 -22 -71 30 37 18 87
+Kazimierz W 7 PartiaA 1 -95 -11 21 -66 93 6 11
+Maria E 7 PartiaA 2 -8 -5 5 11 41 3 -96
+Janusz O 7 PartiaA 3 58 39 -59 -86 -19 -7 17
+Michal I 7 PartiaA 4 -96 -91 -97 46 -36 -45 -44
+Maria E 7 PartiaA 5 44 30 46 -90 -2 54 84
+Dawid A 7 PartiaA 6 26 81 56 56 43 -81 -42
+Konrad S 7 PartiaA 7 -22 14 67 73 -68 7 95
+Elzbieta J 7 PartiaA 8 -100 -25 74 42 -44 -54 -90
+Dawid R 7 PartiaA 9 -7 51 87 -54 56 11 1
+Ewa Z 7 PartiaA 10 -20 -56 -10 -2 -13 -51 -58
+Dorota O 7 PartiaA 11 9 8 -71 36 -45 -82 12
+Jacek Z 7 PartiaA 12 100 -61 -10 -19 -51 53 -32
+Agnieszka I 7 PartiaA 13 33 -55 -34 87 25 73 -76
+Ewa E 7 PartiaA 14 64 65 33 35 75 -42 -81
+Michal I 7 PartiaA 15 61 -88 -55 -45 -68 2 61
+Kazimierz Z 7 PartiaA 16 67 -48 88 59 53 47 43
+Ewa U 7 PartiaA 17 36 -21 54 -47 17 64 86
+Michal O 7 PartiaA 18 12 -8 -75 -56 88 -3 -9
+Jan W 7 PartiaA 19 10 69 91 54 -38 -33 42
+Piotr U 7 PartiaA 20 40 75 -8 -27 57 -72 -4
+Alina D 7 PartiaA 21 -68 3 45 96 47 24 -92
+Agnieszka P 7 PartiaA 22 -67 -40 42 96 55 38 52
+Michal J 7 PartiaA 23 -34 -6 -67 -66 -28 -61 -51
+Janusz T 7 PartiaA 24 -14 28 -53 -73 63 -53 -27
+Jan A 7 PartiaA 25 98 32 70 18 -25 69 -73
+Ewa P 7 PartiaA 26 -100 55 60 -50 61 74 65
+Piotr D 7 PartiaA 27 81 42 41 99 15 -89 52
+Dorota A 7 PartiaA 28 29 -52 67 -50 89 28 2
+Dawid H 7 PartiaA 29 -60 -31 -35 85 -55 32 -79
+Piotr U 7 PartiaA 30 77 -29 52 25 -33 16 -83
+Pawel D 7 PartiaA 31 -42 96 -80 42 51 -6 -35
+Zofia F 7 PartiaA 32 13 60 -9 92 95 92 32
+Piotr B 7 PartiaA 33 21 25 -55 100 19 -65 -54
+Grzegorz M 7 PartiaA 34 7 83 -1 76 75 -35 92
+Dawid J 7 PartiaA 35 8 26 93 95 71 93 -3
+Agnieszka A 7 PartiaA 36 -43 42 -7 -44 13 -87 30
+Anna J 7 PartiaA 37 -32 -91 56 78 99 -52 75
+Janusz B 7 PartiaA 38 86 -100 67 -83 -76 -39 48
+Marta W 7 PartiaA 39 -2 -17 -46 97 94 27 -42
+Malgorzata A 7 PartiaA 40 54 -77 -61 -24 -16 -20 -88
+Joanna R 7 PartiaA 41 -10 -83 70 -38 42 67 -19
+Dorota K 7 PartiaA 42 72 -62 87 71 91 0 -24
+Malgorzata L 7 PartiaA 43 97 -73 23 -6 -53 -23 76
+Dawid E 7 PartiaA 44 73 50 97 -33 26 42 95
+Malgorzata S 7 PartiaA 45 -2 -13 -34 -83 12 31 7
+Dawid R 7 PartiaA 46 24 23 -29 -21 -90 91 -76
+Piotr B 7 PartiaA 47 -25 100 -62 24 -100 -24 -3
+Pawel E 7 PartiaA 48 23 13 -26 60 55 -93 79
+Janusz B 7 PartiaA 49 -56 55 -46 -81 4 88 -63
+Maria P 7 PartiaA 50 -77 3 28 52 -32 -94 -28
+Krzysztof E 7 PartiaA 51 9 -50 39 -75 -3 28 2
+Konrad S 7 PartiaA 52 40 33 12 62 -64 40 65
+Pawel N 7 PartiaA 53 53 -37 73 -68 -87 -95 -70
+Filip M 7 PartiaA 54 -50 -60 13 -96 73 20 76
+Jan N 7 PartiaA 55 -33 3 95 -87 -18 -32 -86
+Filip T 7 PartiaA 56 63 -98 -70 -1 -38 36 67
+Zofia B 7 PartiaA 57 -87 66 -58 -72 -22 24 -83
+Elzbieta O 7 PartiaA 58 14 13 94 -27 30 -34 27
+Michal A 7 PartiaA 59 -97 -6 52 55 -96 -38 -83
+Filip K 7 PartiaA 60 23 -83 -41 -13 -24 64 81
+Konrad G 7 PartiaA 61 79 40 13 -88 -32 24 -13
+Anna E 7 PartiaA 62 -15 -47 5 -28 53 54 -33
+Jacek F 7 PartiaA 63 -53 -24 2 55 -76 67 -57
+Dawid O 7 PartiaA 64 17 57 82 -21 89 -57 10
+Jacek Z 7 PartiaA 65 74 -28 -68 58 -73 -98 -38
+Jacek P 7 PartiaA 66 28 30 41 -45 -37 -64 30
+Janusz I 7 PartiaA 67 41 -22 -6 -65 -62 -94 77
+Michal U 7 PartiaA 68 67 -49 7 -11 34 -41 -98
+Alina D 7 PartiaA 69 42 99 31 -31 20 92 83
+Agnieszka J 7 PartiaA 70 78 -63 -56 -8 -58 75 42
+Grzegorz G 7 PartiaA 71 43 -33 45 -61 -22 -21 -96
+Grzegorz G 7 PartiaA 72 -100 -56 -96 -84 -90 -67 20
+Ewa E 7 PartiaA 73 -6 -9 48 56 -88 97 -25
+Ewa C 7 PartiaA 74 -45 13 31 100 -19 5 84
+Elzbieta I 7 PartiaA 75 -80 -80 -42 79 39 34 -8
+Krzysztof P 7 PartiaA 76 -26 -23 -31 86 56 68 -61
+Agnieszka G 7 PartiaA 77 -50 -18 -74 23 -18 52 24
+Ewa F 7 PartiaA 78 -77 10 -38 91 71 -26 -87
+Dorota Z 7 PartiaA 79 -92 -76 -68 -1 63 36 58
+Alina R 7 PartiaB 1 23 -12 -4 -58 58 88 55
+Grzegorz E 7 PartiaB 2 -18 18 -50 19 -42 24 52
+Krzysztof G 7 PartiaB 3 98 -48 -2 -65 -53 -49 -82
+Ewa O 7 PartiaB 4 -30 -25 22 65 -25 -90 24
+Dawid K 7 PartiaB 5 -44 -30 55 30 28 43 27
+Agnieszka N 7 PartiaB 6 97 59 -3 -36 12 74 64
+Maria E 7 PartiaB 7 -60 91 -91 57 -69 -58 -40
+Piotr T 7 PartiaB 8 89 -48 48 12 51 -93 -71
+Dawid G 7 PartiaB 9 -16 90 100 -66 81 -20 -46
+Filip F 7 PartiaB 10 -19 68 -87 37 -5 -15 -16
+Dorota R 7 PartiaB 11 -45 45 97 -55 -54 -54 6
+Konrad S 7 PartiaB 12 8 -24 -18 12 -76 -76 14
+Dawid C 7 PartiaB 13 28 7 91 -77 -12 64 89
+Dawid P 7 PartiaB 14 68 14 79 -93 -12 48 -68
+Ewa U 7 PartiaB 15 -62 -87 -73 10 2 -69 -77
+Jan Z 7 PartiaB 16 29 14 37 95 -18 40 62
+Janusz Z 7 PartiaB 17 -5 55 99 -16 -95 22 76
+Jan N 7 PartiaB 18 12 83 100 60 37 -21 55
+Justyna M 7 PartiaB 19 -3 7 -60 12 22 84 76
+Kazimierz W 7 PartiaB 20 -86 93 67 50 -70 -93 -19
+Krzysztof H 7 PartiaB 21 -73 48 -70 6 24 -34 -83
+Filip O 7 PartiaB 22 17 2 20 89 48 40 -11
+Filip W 7 PartiaB 23 -11 -22 57 -32 41 55 -36
+Justyna K 7 PartiaB 24 -6 1 33 -10 -79 89 -24
+Kazimierz K 7 PartiaB 25 84 70 -7 -85 -57 -92 -32
+Krzysztof O 7 PartiaB 26 68 97 45 -20 -99 22 18
+Konrad J 7 PartiaB 27 -37 57 32 -93 -35 -67 68
+Agnieszka O 7 PartiaB 28 85 -66 -4 -87 34 -60 -28
+Justyna N 7 PartiaB 29 58 -61 -99 -88 -6 -85 86
+Joanna T 7 PartiaB 30 -63 -17 -13 -54 59 -87 85
+Alina P 7 PartiaB 31 -68 91 44 59 83 15 74
+Grzegorz C 7 PartiaB 32 -20 10 -9 86 86 95 51
+Ewa B 7 PartiaB 33 -85 -79 -65 -8 -61 9 -48
+Agnieszka A 7 PartiaB 34 46 3 -59 -56 48 44 80
+Anna B 7 PartiaB 35 -10 -90 -99 64 89 -27 36
+Anna G 7 PartiaB 36 -15 42 71 42 13 55 -94
+Michal T 7 PartiaB 37 4 -27 -90 -64 -30 96 76
+Michal Z 7 PartiaB 38 -42 -61 7 -11 -100 26 56
+Zofia E 7 PartiaB 39 -86 -77 47 -86 97 -91 -38
+Anna L 7 PartiaB 40 -31 -62 -25 64 37 34 -68
+Joanna C 7 PartiaB 41 -65 -38 59 -36 1 -97 97
+Dorota F 7 PartiaB 42 -100 61 91 -21 -82 56 -28
+Ewa D 7 PartiaB 43 82 17 19 -82 38 -46 -25
+Jan L 7 PartiaB 44 -30 -34 88 -77 32 -85 -30
+Jan N 7 PartiaB 45 -57 -69 -91 37 13 -90 -98
+Kazimierz O 7 PartiaB 46 -95 -63 -7 47 24 44 -83
+Jan N 7 PartiaB 47 11 32 0 53 -23 -72 18
+Elzbieta S 7 PartiaB 48 39 -70 -27 27 -51 -12 -85
+Justyna E 7 PartiaB 49 -19 12 -45 62 -50 -83 -20
+Anna A 7 PartiaB 50 -60 -52 29 -96 -12 -62 -62
+Jan O 7 PartiaB 51 100 63 -53 -86 -52 -34 74
+Grzegorz A 7 PartiaB 52 -41 -88 86 59 98 14 -46
+Pawel S 7 PartiaB 53 84 93 -77 -100 -35 45 31
+Joanna I 7 PartiaB 54 -20 -5 84 40 47 -17 -61
+Marta M 7 PartiaB 55 84 -93 70 5 66 38 -30
+Joanna M 7 PartiaB 56 -98 -44 12 -58 38 16 -55
+Jacek Z 7 PartiaB 57 -54 -78 7 -38 -86 -92 15
+Filip F 7 PartiaB 58 17 98 72 97 -67 -36 94
+Zofia B 7 PartiaB 59 -38 83 85 81 67 -90 82
+Janusz B 7 PartiaB 60 77 52 -2 1 -47 -18 98
+Kazimierz I 7 PartiaB 61 27 -6 -37 -54 78 -97 82
+Dawid N 7 PartiaB 62 41 -83 -87 -33 79 93 -8
+Michal J 7 PartiaB 63 -23 -20 -40 78 -3 -64 38
+Ewa L 7 PartiaB 64 -66 -37 87 -51 -60 -8 76
+Maria B 7 PartiaB 65 49 21 -31 75 6 7 44
+Michal N 7 PartiaB 66 -80 -79 -50 -61 32 50 -50
+Maria A 7 PartiaB 67 46 -59 28 -5 -82 -43 -12
+Malgorzata D 7 PartiaB 68 -18 -13 -76 59 -77 -47 -88
+Piotr K 7 PartiaB 69 29 -73 35 84 40 -34 38
+Dawid H 7 PartiaB 70 7 73 45 77 17 -86 37
+Elzbieta W 7 PartiaB 71 32 -4 18 25 81 5 -57
+Janusz O 7 PartiaB 72 -76 30 17 83 -7 -84 35
+Anna U 7 PartiaB 73 21 -4 -27 -52 -99 -49 -44
+Jacek B 7 PartiaB 74 -90 -96 54 -88 2 -79 89
+Agnieszka Z 7 PartiaB 75 -65 37 18 85 -17 -30 69
+Janusz E 7 PartiaB 76 23 96 77 79 91 -43 16
+Ewa D 7 PartiaB 77 87 13 58 26 60 -84 50
+Kazimierz N 7 PartiaB 78 82 36 -4 2 -97 -23 -96
+Dawid F 7 PartiaB 79 14 -83 -28 -74 -79 -32 -2
+Elzbieta G 8 PartiaA 1 -18 45 -23 61 -56 100 62
+Jacek G 8 PartiaA 2 -98 -91 -92 55 39 42 -52
+Krzysztof N 8 PartiaA 3 -96 -6 -48 37 -2 -70 -20
+Filip U 8 PartiaA 4 32 86 82 -86 22 -98 52
+Jan D 8 PartiaA 5 72 29 -70 -87 92 53 43
+Pawel P 8 PartiaA 6 -79 16 -12 -18 -42 92 -60
+Alina R 8 PartiaA 7 -19 96 -25 39 77 -88 53
+Joanna T 8 PartiaA 8 -10 1 82 -56 86 -87 71
+Jacek M 8 PartiaA 9 -9 -47 -41 71 66 17 49
+Piotr P 8 PartiaA 10 73 -71 77 -2 -30 -89 -26
+Justyna R 8 PartiaA 11 -23 20 0 62 -15 -44 -61
+Michal M 8 PartiaA 12 -55 36 -13 68 25 -84 -87
+Filip G 8 PartiaA 13 -48 15 55 36 -68 11 48
+Elzbieta S 8 PartiaA 14 -20 40 71 -37 89 -46 -87
+Jan I 8 PartiaA 15 -5 -41 31 -54 22 -46 21
+Malgorzata H 8 PartiaA 16 88 -49 -48 -47 -7 9 33
+Zofia R 8 PartiaA 17 82 -47 69 -79 -82 -73 62
+Konrad C 8 PartiaA 18 46 93 18 13 32 77 80
+Pawel E 8 PartiaA 19 -52 -76 55 -71 -54 56 -46
+Joanna B 8 PartiaA 20 -6 -95 -4 9 86 -8 53
+Jan N 8 PartiaA 21 57 -23 -49 -21 -47 12 82
+Kazimierz T 8 PartiaA 22 -36 68 79 85 6 70 -3
+Grzegorz E 8 PartiaA 23 -43 83 59 26 -32 94 -64
+Jan W 8 PartiaA 24 63 -31 -85 26 92 94 44
+Dorota Z 8 PartiaA 25 1 -76 43 -33 -93 72 -57
+Kazimierz W 8 PartiaA 26 -53 7 -41 -27 2 -74 4
+Joanna R 8 PartiaA 27 51 -32 0 86 5 47 -79
+Dorota K 8 PartiaA 28 -22 22 -18 -91 -4 23 42
+Kazimierz O 8 PartiaA 29 80 -93 -64 -53 68 -14 -14
+Elzbieta A 8 PartiaA 30 60 3 37 58 89 -64 -98
+Jacek L 8 PartiaA 31 89 -74 -97 -10 -97 -19 -85
+Justyna A 8 PartiaA 32 -57 -17 78 -94 25 -90 30
+Ewa A 8 PartiaA 33 41 -47 37 63 -12 -17 -51
+Michal I 8 PartiaA 34 -73 -58 -19 11 -52 -27 -22
+Jan I 8 PartiaA 35 -65 -36 5 -78 22 16 29
+Dorota J 8 PartiaA 36 -83 92 -47 -89 -23 52 92
+Dorota C 8 PartiaA 37 -3 64 -45 -18 -83 63 84
+Maria I 8 PartiaA 38 -1 31 -20 99 61 -93 84
+Piotr A 8 PartiaA 39 -61 61 -1 28 -68 -97 18
+Agnieszka H 8 PartiaA 40 2 -81 64 75 -78 -92 9
+Zofia O 8 PartiaA 41 -4 37 50 -70 -76 34 -9
+Dawid J 8 PartiaA 42 -6 13 -59 -27 87 -99 60
+Michal D 8 PartiaA 43 89 -61 -51 47 89 -14 64
+Ewa D 8 PartiaA 44 -40 -59 -59 44 -35 -23 62
+Piotr U 8 PartiaA 45 -67 87 -42 51 4 -100 -83
+Marta G 8 PartiaA 46 -93 -56 -52 100 6 81 -43
+Zofia J 8 PartiaA 47 12 -17 -58 -25 42 -35 -86
+Dawid U 8 PartiaA 48 -99 -28 100 -100 20 -21 86
+Joanna Z 8 PartiaA 49 -2 -48 34 -18 20 -40 76
+Zofia U 8 PartiaB 1 -58 60 -62 -24 34 -99 50
+Konrad M 8 PartiaB 2 84 -37 49 -54 -83 89 -98
+Agnieszka R 8 PartiaB 3 92 98 86 41 48 13 69
+Dorota Z 8 PartiaB 4 91 41 1 50 80 49 28
+Janusz P 8 PartiaB 5 -8 41 75 -22 -60 -82 71
+Jacek P 8 PartiaB 6 -57 -72 38 -70 46 -54 39
+Elzbieta F 8 PartiaB 7 -76 -86 -47 58 -84 64 75
+Filip O 8 PartiaB 8 -22 -55 -9 -90 42 -66 -68
+Alina D 8 PartiaB 9 19 19 -28 -64 -4 92 63
+Justyna F 8 PartiaB 10 34 23 97 9 -72 -86 -5
+Kazimierz C 8 PartiaB 11 -8 -88 -85 -38 -4 -85 62
+Kazimierz R 8 PartiaB 12 -7 75 33 90 43 31 -70
+Malgorzata G 8 PartiaB 13 -18 -98 74 -43 49 64 -7
+Janusz Z 8 PartiaB 14 48 90 -21 31 6 47 51
+Jan R 8 PartiaB 15 -3 77 -79 -53 -48 -100 30
+Zofia I 8 PartiaB 16 -46 96 41 14 59 -74 27
+Marta C 8 PartiaB 17 63 -82 30 -75 65 60 25
+Filip K 8 PartiaB 18 84 -82 89 60 -61 -99 -84
+Piotr F 8 PartiaB 19 -54 -17 30 -14 -28 58 63
+Jan T 8 PartiaB 20 -18 -83 -53 -47 69 55 27
+Elzbieta U 8 PartiaB 21 -6 25 19 -20 -22 -53 76
+Dorota J 8 PartiaB 22 7 -86 9 -50 74 49 -4
+Dawid B 8 PartiaB 23 44 27 -66 77 -58 -97 77
+Kazimierz A 8 PartiaB 24 13 -64 -68 21 -23 14 -48
+Joanna I 8 PartiaB 25 -53 -85 53 95 73 -19 71
+Joanna H 8 PartiaB 26 -10 79 2 -42 -61 -10 21
+Anna O 8 PartiaB 27 32 29 -38 70 37 8 -82
+Elzbieta L 8 PartiaB 28 8 19 2 82 100 39 -51
+Maria Z 8 PartiaB 29 8 -19 58 -80 89 22 -80
+Zofia M 8 PartiaB 30 -96 -39 -55 61 -29 3 80
+Janusz L 8 PartiaB 31 50 98 -91 91 -46 25 -69
+Joanna R 8 PartiaB 32 74 -23 96 58 53 15 -49
+Krzysztof K 8 PartiaB 33 80 -79 84 -95 -6 -44 90
+Kazimierz P 8 PartiaB 34 92 84 37 45 15 5 -49
+Joanna R 8 PartiaB 35 -90 -79 -52 91 35 -88 -94
+Justyna O 8 PartiaB 36 -86 -20 5 -19 61 -76 -75
+Filip T 8 PartiaB 37 34 56 89 -32 -88 -6 12
+Piotr I 8 PartiaB 38 6 73 7 41 56 27 66
+Alina U 8 PartiaB 39 -13 -30 93 -83 -29 11 -37
+Malgorzata H 8 PartiaB 40 -10 31 -87 25 18 -14 17
+Zofia K 8 PartiaB 41 52 -23 -29 51 43 74 -1
+Janusz R 8 PartiaB 42 0 6 50 35 -69 24 50
+Kazimierz W 8 PartiaB 43 14 -26 82 83 58 -2 -55
+Jan S 8 PartiaB 44 -73 36 -56 75 76 10 54
+Jan H 8 PartiaB 45 99 42 -33 99 64 36 -65
+Piotr W 8 PartiaB 46 49 78 57 -91 -61 71 30
+Dorota U 8 PartiaB 47 -18 -26 70 34 -26 57 42
+Krzysztof L 8 PartiaB 48 -48 -77 -93 -39 63 -5 -18
+Joanna F 8 PartiaB 49 -49 -63 60 -20 93 92 -62
+Dawid G 9 PartiaA 1 27 74 62 77 60 -12 1
+Grzegorz B 9 PartiaA 2 8 79 -22 64 87 -93 -16
+Kazimierz P 9 PartiaA 3 -86 -4 13 -88 15 -83 -78
+Dorota M 9 PartiaA 4 94 -50 92 -40 62 0 11
+Janusz C 9 PartiaA 5 18 64 75 48 35 8 -37
+Joanna M 9 PartiaA 6 -62 9 40 -32 -75 -24 88
+Alina M 9 PartiaA 7 -78 -56 40 -64 59 50 -28
+Grzegorz H 9 PartiaA 8 95 -12 59 -34 59 -64 -96
+Dorota H 9 PartiaA 9 -86 -48 40 38 -52 11 64
+Michal Z 9 PartiaA 10 -73 89 76 63 -30 96 46
+Janusz Z 9 PartiaA 11 -49 -24 78 11 87 -5 -44
+Grzegorz M 9 PartiaA 12 2 -10 21 18 -36 0 9
+Grzegorz O 9 PartiaA 13 -42 -10 30 66 -63 59 36
+Malgorzata E 9 PartiaA 14 -6 50 14 -13 74 49 27
+Janusz J 9 PartiaA 15 -88 -54 10 -38 12 -51 30
+Alina E 9 PartiaA 16 31 91 63 100 64 82 -82
+Dorota C 9 PartiaA 17 -20 -39 4 -28 -78 -68 95
+Filip M 9 PartiaA 18 -79 45 -6 75 32 46 83
+Dawid F 9 PartiaA 19 14 -27 67 28 3 -73 -85
+Anna F 9 PartiaA 20 -9 -58 -70 -31 89 72 17
+Pawel D 9 PartiaB 1 77 -94 4 -18 -16 80 -92
+Piotr K 9 PartiaB 2 7 10 36 -22 -9 -37 64
+Dorota I 9 PartiaB 3 41 -51 -26 -92 -47 -86 -24
+Grzegorz O 9 PartiaB 4 -84 -1 35 93 -52 -22 -56
+Anna J 9 PartiaB 5 -72 -97 78 84 -100 24 45
+Marta I 9 PartiaB 6 40 1 -44 94 -58 5 29
+Jan C 9 PartiaB 7 62 -1 0 -93 44 41 -48
+Maria M 9 PartiaB 8 -96 -39 -9 78 19 26 -58
+Alina C 9 PartiaB 9 100 -16 -93 -98 -63 -6 -2
+Marta G 9 PartiaB 10 41 68 60 85 -47 61 53
+Grzegorz S 9 PartiaB 11 67 -97 100 -98 -52 -71 57
+Anna F 9 PartiaB 12 13 34 -17 6 -93 -81 46
+Ewa M 9 PartiaB 13 52 -48 35 -33 92 13 84
+Anna L 9 PartiaB 14 -8 67 -31 42 9 -51 44
+Maria R 9 PartiaB 15 -14 -56 45 -19 -22 32 -69
+Justyna P 9 PartiaB 16 -56 -65 21 -85 16 91 -53
+Joanna G 9 PartiaB 17 -17 -74 100 63 -82 57 -41
+Anna O 9 PartiaB 18 96 -81 -35 32 -21 -71 -64
+Janusz W 9 PartiaB 19 -72 -71 -50 -40 -37 -37 -70
+Dorota Z 9 PartiaB 20 94 -27 -90 22 19 40 -54
+Janusz N 10 PartiaA 1 -100 83 53 18 -98 14 -6
+Marta H 10 PartiaA 2 -53 -52 -30 74 -62 23 14
+Alina T 10 PartiaA 3 0 -86 -52 77 -83 28 12
+Michal I 10 PartiaA 4 23 -95 55 -7 80 75 34
+Filip A 10 PartiaA 5 100 -93 12 -21 47 -32 -34
+Joanna I 10 PartiaA 6 -3 100 -95 43 55 -43 65
+Alina E 10 PartiaA 7 80 82 -3 -1 3 76 25
+Janusz W 10 PartiaA 8 62 -35 72 -16 -27 -65 -33
+Jacek K 10 PartiaA 9 36 80 16 -21 4 16 -68
+Ewa E 10 PartiaA 10 73 -52 -41 7 -65 -18 35
+Justyna U 10 PartiaA 11 -81 56 -1 -66 19 23 63
+Grzegorz G 10 PartiaA 12 -33 -100 -71 71 60 -29 100
+Grzegorz L 10 PartiaA 13 -75 -58 -42 63 10 67 76
+Anna T 10 PartiaA 14 30 99 59 99 36 -4 -33
+Filip L 10 PartiaA 15 -9 -84 -30 -5 -11 70 -29
+Kazimierz J 10 PartiaA 16 -18 63 11 6 46 1 30
+Elzbieta N 10 PartiaA 17 -13 7 0 31 -18 -87 34
+Agnieszka K 10 PartiaA 18 -86 97 37 -39 47 -57 -25
+Elzbieta F 10 PartiaA 19 -94 62 21 30 -8 -66 35
+Konrad I 10 PartiaA 20 -49 56 -23 97 46 37 -63
+Kazimierz O 10 PartiaA 21 -67 49 -82 98 92 -90 -58
+Dawid O 10 PartiaA 22 -80 29 17 19 -49 44 -50
+Joanna W 10 PartiaA 23 41 23 83 -92 83 -51 -47
+Janusz J 10 PartiaA 24 -46 -53 74 93 25 -44 -9
+Alina C 10 PartiaA 25 71 78 98 46 80 58 63
+Krzysztof L 10 PartiaA 26 -13 35 4 -43 11 35 -54
+Krzysztof J 10 PartiaA 27 -63 -20 17 73 64 -32 -47
+Joanna N 10 PartiaA 28 -52 1 8 -4 -90 -35 -32
+Agnieszka C 10 PartiaA 29 75 58 50 3 -26 2 23
+Pawel B 10 PartiaA 30 -47 29 100 -64 -12 -62 70
+Krzysztof I 10 PartiaA 31 -27 -41 -6 -92 36 -5 48
+Konrad D 10 PartiaA 32 28 98 52 44 -22 100 94
+Dorota D 10 PartiaA 33 59 -87 71 -100 -38 72 39
+Alina P 10 PartiaA 34 72 -60 36 -34 10 49 72
+Alina J 10 PartiaA 35 -11 -96 -32 16 23 67 -74
+Jan Z 10 PartiaA 36 -55 -50 -92 -33 65 18 -55
+Ewa G 10 PartiaA 37 22 -55 -31 42 78 42 85
+Marta Z 10 PartiaA 38 93 -66 33 74 47 78 -9
+Kazimierz D 10 PartiaA 39 -40 27 29 2 -42 -99 -97
+Michal W 10 PartiaA 40 -19 -61 14 47 63 -33 82
+Alina B 10 PartiaA 41 31 -57 51 -14 -66 -4 53
+Malgorzata U 10 PartiaA 42 -85 -52 54 34 89 67 7
+Krzysztof S 10 PartiaA 43 50 -57 3 76 -88 64 30
+Joanna K 10 PartiaA 44 42 -35 61 -40 32 67 87
+Janusz U 10 PartiaA 45 6 -27 -39 43 22 -66 -3
+Elzbieta H 10 PartiaA 46 -28 -43 -28 0 29 -62 -64
+Grzegorz B 10 PartiaA 47 -61 39 -58 -65 26 -92 69
+Krzysztof R 10 PartiaA 48 -51 -6 -95 -86 -79 54 -62
+Dorota S 10 PartiaA 49 87 -68 -18 89 21 70 -22
+Filip F 10 PartiaA 50 -12 -45 -83 -10 55 -6 -76
+Grzegorz J 10 PartiaA 51 58 -61 3 -90 -11 -12 -13
+Maria U 10 PartiaA 52 -88 -35 -2 -75 10 -63 4
+Jan L 10 PartiaA 53 40 76 -35 85 62 4 87
+Maria Z 10 PartiaA 54 -46 -41 -57 75 -74 -75 -30
+Agnieszka G 10 PartiaA 55 66 -70 -36 -55 75 87 -42
+Zofia J 10 PartiaA 56 2 8 -81 25 58 -29 -90
+Anna S 10 PartiaA 57 9 76 -9 -89 70 -50 -79
+Kazimierz O 10 PartiaA 58 2 70 95 -93 59 57 22
+Grzegorz U 10 PartiaA 59 31 -85 -32 67 -79 61 86
+Piotr E 10 PartiaA 60 77 48 100 17 -50 -54 -29
+Joanna J 10 PartiaA 61 -89 97 36 79 -84 -2 44
+Dorota C 10 PartiaB 1 -12 -6 38 -4 57 -64 -14
+Kazimierz R 10 PartiaB 2 65 -83 -91 -28 -14 49 46
+Justyna T 10 PartiaB 3 92 63 24 -67 2 -54 -45
+Joanna O 10 PartiaB 4 -1 39 73 93 22 98 -21
+Filip U 10 PartiaB 5 34 91 13 52 46 71 -63
+Dawid H 10 PartiaB 6 96 70 -69 21 10 27 -61
+Ewa H 10 PartiaB 7 -57 1 60 84 -90 -71 56
+Jan T 10 PartiaB 8 -50 62 47 8 -1 -17 -15
+Jacek R 10 PartiaB 9 -6 83 -11 100 49 50 78
+Joanna K 10 PartiaB 10 -49 -34 51 95 -4 71 35
+Jan H 10 PartiaB 11 -19 35 0 97 -28 67 -18
+Grzegorz D 10 PartiaB 12 38 78 -48 -12 26 90 88
+Jacek H 10 PartiaB 13 -78 19 -68 31 -64 77 -18
+Maria A 10 PartiaB 14 -67 27 -10 58 -50 16 53
+Dawid F 10 PartiaB 15 -28 -54 -52 66 94 -33 13
+Michal C 10 PartiaB 16 65 -40 -16 -56 -30 -21 99
+Ewa M 10 PartiaB 17 71 -75 -38 -23 -36 82 -18
+Kazimierz P 10 PartiaB 18 20 2 -84 57 -5 81 60
+Dorota A 10 PartiaB 19 86 83 -38 83 -59 92 75
+Alina N 10 PartiaB 20 19 -73 43 100 -23 44 -27
+Michal G 10 PartiaB 21 10 -16 -80 17 -5 -35 23
+Dorota K 10 PartiaB 22 -99 72 7 -83 9 -84 -77
+Krzysztof W 10 PartiaB 23 38 78 -60 -75 -54 50 -2
+Dorota E 10 PartiaB 24 -6 -66 -68 -60 81 61 -10
+Alina W 10 PartiaB 25 95 -32 54 -6 -98 90 90
+Justyna B 10 PartiaB 26 -84 -19 -61 -30 -90 35 -90
+Piotr B 10 PartiaB 27 63 55 -88 58 40 12 -29
+Grzegorz I 10 PartiaB 28 72 75 19 18 23 84 -11
+Maria P 10 PartiaB 29 80 80 -78 -79 100 -79 16
+Dorota O 10 PartiaB 30 54 -68 56 56 65 49 -10
+Dawid Z 10 PartiaB 31 -37 -57 -70 -14 93 -26 -75
+Filip P 10 PartiaB 32 27 -7 11 -15 12 27 35
+Agnieszka F 10 PartiaB 33 28 -20 87 -27 -64 25 -51
+Alina S 10 PartiaB 34 -70 -72 -60 -56 47 40 73
+Pawel E 10 PartiaB 35 -64 -9 -35 60 -77 -27 86
+Marta U 10 PartiaB 36 10 35 -43 69 -97 -92 56
+Pawel K 10 PartiaB 37 -9 39 28 37 76 -57 -77
+Jan Z 10 PartiaB 38 4 20 67 76 8 12 -46
+Anna R 10 PartiaB 39 -8 -80 -98 -74 10 -66 -13
+Kazimierz H 10 PartiaB 40 -83 77 72 57 41 -64 21
+Jan N 10 PartiaB 41 1 -33 -40 12 83 -29 50
+Joanna H 10 PartiaB 42 -74 51 23 -65 66 22 55
+Ewa I 10 PartiaB 43 60 -13 83 -1 -42 -12 -64
+Kazimierz F 10 PartiaB 44 -30 29 75 -93 -74 2 -16
+Joanna F 10 PartiaB 45 -96 34 -54 -85 2 -71 31
+Filip J 10 PartiaB 46 86 19 94 -32 63 44 -66
+Agnieszka F 10 PartiaB 47 2 90 13 -97 -8 51 -1
+Dawid N 10 PartiaB 48 -3 18 87 -78 -29 4 -82
+Ewa E 10 PartiaB 49 -39 28 -32 33 -44 -93 71
+Malgorzata P 10 PartiaB 50 1 -60 28 -86 90 1 77
+Grzegorz R 10 PartiaB 51 43 96 -70 -66 69 96 53
+Justyna A 10 PartiaB 52 -41 -79 75 -26 37 87 9
+Jan P 10 PartiaB 53 87 17 -16 -2 -6 -89 50
+Anna T 10 PartiaB 54 20 84 -6 91 67 84 88
+Dorota O 10 PartiaB 55 -39 36 73 -98 -54 -25 -66
+Zofia A 10 PartiaB 56 -94 -25 47 -69 26 65 25
+Dorota E 10 PartiaB 57 6 -62 -6 -88 94 -78 100
+Dawid B 10 PartiaB 58 66 16 -43 -16 -14 -72 -13
+Pawel R 10 PartiaB 59 -88 -94 -52 -74 92 -26 44
+Anna E 10 PartiaB 60 -55 -90 11 60 -77 77 98
+Malgorzata P 10 PartiaB 61 32 -11 6 -22 56 -87 28
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 1 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 2 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 3 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 4 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 5 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 6 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 7 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 8 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 9 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+Jacek R 10 1 PartiaA
+ 8 6 3 6 8 -8 2
+ 9 3 -6 5 2 -7 2
+ 7 -6 -4 10 7 -9 -2
+ -8 -8 5 4 -3 3 -4
+ 6 -3 10 -6 -6 -9 9
