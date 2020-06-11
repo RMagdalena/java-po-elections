@@ -10,6 +10,7 @@ public class DzialaniaWKampanii {
         this.opis = opis;
     }
 
+    // cena wykonania dzialania na jednym wyborcy w okregu
     private int cena() {
         int wynik = 0;
         if (opis != null) {

@@ -37,7 +37,6 @@ public class OkregScalony extends Okreg {
                 wynik.append(wyborca.wypisz());
             }
             wynik.append("\n" + wypiszMandatyZOkregu(partie));
-
         }
         return wynik;
     }

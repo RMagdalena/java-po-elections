@@ -22,7 +22,6 @@ public class Main {
     }
 
     private static void stworzSwiat(Scanner s, Metoda metoda) {
-
         Okreg[] tablicaOkregow = new Okreg[s.nextInt()];
         Partia[] tablicaPartii = new Partia[s.nextInt()];
 

@@ -62,7 +62,7 @@ public class StrategiaZachlanna implements Strategia {
             int maks = Integer.MIN_VALUE;
             int numerDzialania = 0;
             for (int i = 0; i < wynikiDzialan.length; i++) {
-                if (wynikiDzialan[i] > maks && dzialania[i].koszt(okregi[i].getLiczbaWyborcow()) <= budzet) {
+                if (wynikiDzialan[i] > maks && dzialania[i].koszt(okreg.getLiczbaWyborcow()) <= budzet) {
                     sumaAktualna = wynikiDzialan[i];
                     numerDzialania = i;
                 }

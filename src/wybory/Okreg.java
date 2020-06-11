@@ -75,6 +75,7 @@ public class Okreg {
         this.listaWyborcow = listaWyborcow;
     }
 
+
     public void scalZOkregiem(Okreg okreg2) {
 
         LinkedList<Wyborca> nowaListaWyborcow = new LinkedList<>();
@@ -88,7 +89,6 @@ public class Okreg {
         this.okregScalony = new OkregScalony(this.numer, nowaListaWyborcow, nowiWszyscyKandydaciOkregu, this, okreg2);
         okreg2.setOkregScalony(this.okregScalony);
     }
-
 
     // WYBORY
 

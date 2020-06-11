@@ -18,6 +18,14 @@ public class WyborcaWszechstronny extends Wyborca {
         return wagiCech;
     }
 
+    @Override
+    public void zmienWagi(int[] opis) {
+        for (int i = 0; i < wagiCech.length; i++) {
+            wagiCech[i] += opis[i];
+            wagiCech[i] = Math.max(-100, Math.min(100, wagiCech[i]));
+        }
+    }
+
     protected LinkedList<Kandydat> stworzListeWybranych(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
         LinkedList<Kandydat> listaKandydatowWybranych = new LinkedList<>();
         int maksymalnaSuma = maksymalnaSumaWazona(wszyscyKandydaci);
@@ -30,14 +38,6 @@ public class WyborcaWszechstronny extends Wyborca {
             }
         }
         return listaKandydatowWybranych;
-    }
-
-    @Override
-    public void zmienWagi(int[] opis) {
-        for (int i = 0; i < wagiCech.length; i++) {
-            wagiCech[i] += opis[i];
-            wagiCech[i] = Math.max(-100, Math.min(100, wagiCech[i]));
-        }
     }
 
     protected int maksymalnaSumaWazona(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {

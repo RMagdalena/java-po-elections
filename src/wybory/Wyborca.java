@@ -19,11 +19,16 @@ public abstract class Wyborca {
     }
 
     public int[] getWagiCech() {
+        // dziala tylko u wyborcow, ktorzy maja wagi cech
         return null;
     }
 
     public Kandydat getKandydatNaKtoregoGlosuje() {
         return kandydatNaKtoregoGlosuje;
+    }
+
+    public void zmienWagi(int[] opis) {
+        // dziala tylko u wyborcow, ktorzy maja wagi cech
     }
 
     public void oddajGlos(LinkedList<KandydaciPartiiDanegoOkregu> wszyscyKandydaci) {
@@ -39,10 +44,6 @@ public abstract class Wyborca {
     protected int losujNumerKandydata(int przedzial) {
         Random r = new Random();
         return r.nextInt(przedzial);
-    }
-
-    public void zmienWagi(int[] opis) {
-        // dziala tylko u wyborcow, ktorzy maja wagi cech
     }
 
     public StringBuilder wypisz() {

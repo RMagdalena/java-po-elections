@@ -18,7 +18,8 @@ abstract public class MetodaZDzielnikiem implements Metoda {
         int[] wykazMandatow = new int[partie.length];
         int rozdzieloneMandaty = 0;
 
-        Map<Integer, Integer> aktualnyPodzial = new HashMap<>(); // klucz to numer partii, wartosc to dzielnik
+        // klucz to numer partii, wartosc to dzielnik
+        Map<Integer, Integer> aktualnyPodzial = new HashMap<>();
 
         // poczatkowe wypelnienie mapy
         for (int i = 0; i < partie.length; i++) {
@@ -44,7 +45,7 @@ abstract public class MetodaZDzielnikiem implements Metoda {
 
         LinkedList<Integer> wybranePartie = new LinkedList<>();
         for (int i = 0; i < partie.length; i++) {
-            float liczbaGlosowPrzezDzielnik = (float) glosyNaPartie[i] / aktualnyPodzial.get(i); // biore glosy i-tej partie i dziele przez dzielnik
+            float liczbaGlosowPrzezDzielnik = (float) glosyNaPartie[i] / aktualnyPodzial.get(i);
             int numerPartii = -1;
             if (liczbaGlosowPrzezDzielnik > maksymalnaWartosc) {
                 maksymalnaWartosc = liczbaGlosowPrzezDzielnik;

@@ -37,7 +37,6 @@ public class MetodaHareaNiemeyera implements Metoda {
         return sumaGlosowWOkregu;
     }
 
-
     private int[] rozdzielPoPrzecinku(int[] wykazMandatow, int rozdzieloneMandaty, int liczbaMandatowOkregu, LinkedList<Float> poPrzecinku) {
         int[] wynik = wykazMandatow;
 

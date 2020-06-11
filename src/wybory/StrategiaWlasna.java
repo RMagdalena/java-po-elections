@@ -2,8 +2,8 @@ package wybory;
 
 public class StrategiaWlasna extends StrategiaZRozmachem implements Strategia {
 
-    // Wybieram dzialanie najdrozsze jednak tym razem ograniczeniem jest polowa danego budzetu,
-    // jesli polowa budzetu nie wystarczy, wybieram najdrozszy majac do dyspozycji caly budzet.
+    // Wybieram dzialanie najdrozsze jednak z rozwagą, ponieważ tym razem ograniczeniem jest polowa danego budzetu,
+    // jesli polowa budzetu nie wystarczy na zakup zadnego dzialnia, wybieram najdrozsze majac do dyspozycji caly budzet.
 
     public StrategiaWlasna() {
     }

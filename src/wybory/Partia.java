@@ -24,13 +24,6 @@ public class Partia {
         return uzyskaneGlosy;
     }
 
-    public void kampania(Okreg[] okregi, DzialaniaWKampanii[] dzialaniaWKampanii) {
-        boolean czyWykonanoDzialanie = true;
-        while (czyWykonanoDzialanie) {
-            czyWykonanoDzialanie = strategiaPartii.wykonajDzialanie(dzialaniaWKampanii, budzet, okregi, this);
-        }
-    }
-
     public void dodajGlosy() {
         uzyskaneGlosy++;
     }
@@ -41,6 +34,13 @@ public class Partia {
 
     public void zaplacZaDzialanie(int koszt) {
         this.budzet -= koszt;
+    }
+
+    public void kampania(Okreg[] okregi, DzialaniaWKampanii[] dzialaniaWKampanii) {
+        boolean czyWykonanoDzialanie = true;
+        while (czyWykonanoDzialanie) {
+            czyWykonanoDzialanie = strategiaPartii.wykonajDzialanie(dzialaniaWKampanii, budzet, okregi, this);
+        }
     }
 
     public StringBuilder wypiszMandaty() {
