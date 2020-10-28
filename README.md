@@ -1,5 +1,5 @@
 
-#Wybory parlamentarne (ang. Parliamentary Elections)
+# Wybory parlamentarne (ang. Parliamentary Elections)
 
 
 Program symuluje przeprowadzenie procesu wyborczego w wyimaginowanym kraju Bajtocja.
@@ -12,17 +12,17 @@ głosowanie oraz przeliczania głosów na mandaty trzema różnymi metodami.
       voting and converting votes into seats using three different methods.)
 
 
-##Zasady przeprowadzania wyborów w Bajtocji
+## Zasady przeprowadzania wyborów w Bajtocji
 W Bajtocji odbywają się wybory posłów do Bajtockiego Parlamentu. 
 
-###Okręgi wyborcze
+### Okręgi wyborcze
 
 Bajtocja jest podzielona na `n podstawowych okręgów wyborczych` o numerach 1,2,3,...,n. 
 W każdym podstawowym okręgu wyborczym znajduje się `określona liczba wyborców`, przyjmujemy, że zawsze jest
 ona wielokrotnością 10. Okręgi wyborcze mogą być jednak łączone (jedynie o sąsiednich numerach i każdy okręg może być
 połączony z tylko jednym innym). 
 
-###Kandydaci do parlamentu
+### Kandydaci do parlamentu
 
 W każdym okręgu wyborczym wybierana jest liczba `posłów do parlamentu` równa n/10, gdzie n to liczba wyborców w danym okręgu. 
 Przyjmujemy, że każda `partia w danym okręgu`
@@ -34,7 +34,7 @@ Każdy `kandydat do parlamentu` ma imię, nazwisko, przynależność do danej pa
 oraz okręgu wyborczego, numer na liście wyborczej partii w danym okręgu oraz pewną
 liczbę cech, których wartości są całkowite i są w przedziale od -100 do 100.
 
-###Wyborcy
+### Wyborcy
 
 Wyborców możemy podzielić na kilka typów w zależności od tego, czym kierują się przy podejmowaniu decyzji co do
 wyboru kandydata:
@@ -55,7 +55,7 @@ ważoną.
 6. Istnieją także wyborcy, którzy działają `zgodnie z jedną ze strategii z punktów 3,4,5`,
 ale przy dokonywaniu wyboru `ograniczają się do jednej partii`.
 
-###Przebieg wyborów
+### Przebieg wyborów
 
 Każdy wyborca `oddaje głos` na dokładnie 1 kandydata (z własnego okręgu wyborczego).
 Głosy wszystkich wyborców z danego okręgu wyborczego są następnie `sumowane` i
@@ -66,7 +66,7 @@ Dopuszcza się 3 `metody zamiany głosów na mandaty`:
 2. Metoda Sainte-Laguë
 3. Metoda Hare’a-Niemeyera
 
-###Kampania wyborcza
+### Kampania wyborcza
 
 Przed wyborami odbywa się kampania wyborcza, na którą każda z partii ma określony
 budżet (każda partia może mieć inny budżet). 
@@ -96,14 +96,14 @@ danym okręgu wyborczym
 
 ## Działanie programu
 
-###Wejście
+### Wejście
 Program wczytuje
 wszystkie parametry z plików wejściowych (i ścieżka do pliku wejściowego jest jedynym
 argumentem programu). 
 
 Format pliku wejściowego:
 
-####1)
+#### 1)
 Pierwszy wiersz zawiera `cztery liczby`:
 
 - n - liczba podstawowych okręgów wyborczych 
@@ -111,28 +111,28 @@ Pierwszy wiersz zawiera `cztery liczby`:
 - d - liczba możliwych działań 
 - c - liczba cech kandydatów 
 
-####2)
+#### 2)
  Drugi wiersz zawiera:
  - `liczbę par podstawowych okręgów wyborczych`, które należy `scalić`  
  - Następnie tyle właśnie par postaci (o,o+1)
 
-####3)
+#### 3)
 Trzeci wiersz zawiera p `nazw partii` 
 
-####4)
+#### 4)
 Czwarty wiersz zawiera p liczb  określających `budżety` poszczególnych partii
 
-####5)
+#### 5)
 Piąty wiersz składa się z p znaków odpowiadających `strategiom` poszczególnych partii 
 - ‘R’ - partia działa “z rozmachem”
 - ‘S’ - partia działa “skromnie”
 - ‘W’ - partia korzysta z dodatkowej strategii zaimplementowanej przez Ciebie
 - ‘Z’ - partia działa “zachłannie”
 
-####6)
+#### 6)
 Szósty wiersz zawiera n liczb postaci 10k - są to `liczby wyborców` w każdym podstawowym okręgu wyborczym
 
-####7)
+#### 7)
 W kolejnych wierszach są opisy poszczególnych `kandydatów`
 - Każdy kandydat jest w
 osobnym wierszu, 
@@ -143,7 +143,7 @@ wcześniej), a w ramach partii występują w pliku zgodnie z rosnącą pozycją 
 - `w1 w2 … wc` to wartości cech (liczby całkowite z
 przedziału [-100, 100]). 
 
-####8)
+#### 8)
 Kolejne wiersze zawierają opis wyborców, 
 - jeden wiersz zawiera opis jednego wyborcy, 
 - najpierw wypisani są wszyscy wyborcy z okręgu 1, potem wszyscy wyborcy
@@ -175,7 +175,7 @@ liczba, określająca która wartość cechy kandydatów powinna być
 maksymalizowana / minimalizowana, a w przypadku wyborców typu 6 i 7 potem jest
 jeszcze nazwa partii.
 
-####9)
+#### 9)
 
 W kolejnych d wierszach jest `opis możliwych działań`, każdy wiersz zawiera c liczb
 całkowitych określających jak
@@ -183,10 +183,10 @@ zmieniają się wartości każdej spośród c wag poszczególnych cech kandydat�
 okręgu wyborczym, w którym zastosowano dane działanie.
 
 
-####Przyjmujemy poprawność danych wejściowych.
+#### Przyjmujemy poprawność danych wejściowych.
 
 
-###Wyjście
+### Wyjście
 W wyniku dla każdej z 3 metod przeliczania głosów na mandaty program wypisuje
 w kolejnych wierszach:
 
