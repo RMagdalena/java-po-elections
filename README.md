@@ -1,16 +1,16 @@
+# Parliamentary Elections
+The program simulates a parliamentary elections in an imaginary country called Byteland.
+      This process consists of: formation of constituencies, election campaign, 
+      voting and converting votes into seats using three different methods.
 
-# Wybory parlamentarne (ang. Parliamentary Elections)
 
+Below you can find full problem description in Polish.
+
+# Wybory parlamentarne 
 
 Program symuluje przeprowadzenie procesu wyborczego w wyimaginowanym kraju Bajtocja.
 Na ten proces składa się: formowania okręgów wyborczych, kampania wyborczej, 
 głosowanie oraz przeliczania głosów na mandaty trzema różnymi metodami. 
-
-
-(ang. The program simulates a parliamentary elections in an imaginary country called Byteland.
-      This process consists of: formation of constituencies, election campaign, 
-      voting and converting votes into seats using three different methods.)
-
 
 ## Zasady przeprowadzania wyborów w Bajtocji
 W Bajtocji odbywają się wybory posłów do Bajtockiego Parlamentu. 
